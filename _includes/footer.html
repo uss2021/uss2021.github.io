@@ -1,24 +1,20 @@
-<div class="hero-foot">
-  <footer class="footer">
+<footer class="footer">
     <div class="container">
-      <div class="content has-text-centered is-size-7">
-        <p>
-        Site forked from 
-        <a href="https://alexhernandezgarcia.github.io">alexhernandezgarcia.github.io</a>
-        , created with 
-        <a href="https://jekyllrb.com/">jekyll</a>
-        and
-        <a href="https://bulma.io/">bulma</a>
-        . Creative Commons License 
-        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-          <i class="fab fa-creative-commons fa-{{ include.icon-size }}" aria-hidden="true"></i>
-          <i class="fab fa-creative-commons-by fa-{{ include.icon-size }}" aria-hidden="true"></i>
-          <i class="fab fa-creative-commons-nc fa-{{ include.icon-size }}" aria-hidden="true"></i>
-          <i class="fab fa-creative-commons-sa fa-{{ include.icon-size }}" aria-hidden="true"></i>
-        </a>
-        </p>
-      </div>
-    </div>
-  </footer>
-</div>
+        
+        {% if site.footer_menu %}
+        <div class="columns is-multiline">
+            {% for item in site.data[site.footer_menu] %}
+            <div class="column has-text-centered">
+                <div>
+                    <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
 
+        <div class="content is-small has-text-centered">
+            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+        </div>
+    </div>
+</footer>

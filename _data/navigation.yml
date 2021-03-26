@@ -1,3 +1,8 @@
+- name: Pages
+  link: /#
+  dropdown:
+    - name: Page With Sidebar
+      link: /page-1/
 - name: Speakers
   link: /speakers.html
 - name: Schedule
@@ -6,3 +11,4 @@
   link: /organizers.html
 - name: About
   link: /about.html
+
