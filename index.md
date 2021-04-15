@@ -31,5 +31,5 @@ We warmly invite you to join us for this year’s edition of the UNIQUE Student 
 
 ### Important dates
 
-* Registration: Friday, 8 May 2021  
-* Lightning Talk Registraion: Friday, 14 May 2021
+* Registration due: Friday, 8 May 2021  
+* Lightning Talk Registraion due: Friday, 14 May 2021
