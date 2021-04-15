@@ -8,7 +8,7 @@ USS is a student-oriented, student-organized conference at the crossroads of neu
 
 We warmly invite you to join us for this year’s edition of the UNIQUE Student Symposium.  
 
-[Click here to register right now!](https://forms.gle/dkzE2zBwTk6Ga5Ft9)  
+{% include registration-message.html title="Registration" message="You can now register to USS 2021 using the link below!" button="Registration form" link="https://forms.gle/dkzE2zBwTk6Ga5Ft9" %}
 
 ---
 
