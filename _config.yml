@@ -24,7 +24,8 @@ description: USS (UNIQUE Student Symposium) is a student-oriented, student-organ
 author: UNIQUE Student Symposium 2021
 baseurl: ""
 url: ""
-logo: /assets/images/logo1.png
+logo: assets/img/unique-logo-white-favicon.png
+favicon: assets/img/unique-logo-white-favicon.png
 
 # Reading Files
 include:
