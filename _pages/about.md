@@ -16,3 +16,6 @@ USS (UNIQUE Student Symposium) is a student-oriented, student-organized conferen
 
 Unfortunately, in the actual global circumstances, it is not possible to organize events for people to attend in person. However, this year's event will still take place, though in a virtual format. Both the keynote speakers and the workshop are going to be accessible through online platforms. Information and links will be provided following your registration.
 
+### Past Event
+
+The recordings of the past event, USS 2020, are available on [YouTube](https://www.youtube.com/channel/UCOoOsSZfudHl5vcUnCE3jrA/live).
