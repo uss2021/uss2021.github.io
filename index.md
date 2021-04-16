@@ -19,7 +19,7 @@ We warmly invite you to join us for this year’s edition of the UNIQUE Student 
 
 On the first day of the symposium, [Monday June 7](schedule), we will have a _lightning talks sessions_, featuring 3-minute video presentations by the participants. If you are interested in participating in our lightning talks session, please fill out the form below.
 
-{% include registration-message.html title="Lightning talk applications" message="You’ll be asked to provide a short abstract (250 words) of your presentation. You will receive a notice before May 24th if you are selected and will then be asked to submit a 3-minute video to present at the event." button="Application form" link="https://forms.gle/WLjjGrY18ZFRjDGh9" %}
+{% include registration-message.html title="Lightning talk applications" message="You’ll be asked to provide a short abstract (1500 characters) of your presentation. You will receive a notice on May 24th if you are selected and will then be asked to submit a 3-minute video to present at the event." button="Application form" link="https://forms.gle/WLjjGrY18ZFRjDGh9" %}
 
 ---
 
