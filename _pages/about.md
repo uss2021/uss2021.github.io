@@ -18,4 +18,4 @@ Unfortunately, in the actual global circumstances, it is not possible to organiz
 
 ### Past Event
 
-[USS 2020](https://www.youtube.com/channel/UCOoOsSZfudHl5vcUnCE3jrA/live)
+The recordings of the past event, USS 2020, are available on [YouTube](https://www.youtube.com/channel/UCOoOsSZfudHl5vcUnCE3jrA/live).
