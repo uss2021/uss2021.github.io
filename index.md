@@ -2,9 +2,12 @@
 layout: page
 title: USS 2021 - Virtual
 subtitle: Unifying Neuroscience and Artificial Intelligence in Quebec (UNIQUE) - Student Symposium
+toc: true
 ---
 # UNIQUE Student Symposium (USS)
 USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. This year USS will be held **online**, on June 7th and 8th, 2021.
+
+## Registration
 
 We warmly invite you to join us for this year’s edition of the UNIQUE Student Symposium.  
 
@@ -13,28 +16,29 @@ We warmly invite you to join us for this year’s edition of the UNIQUE Student 
 ---
 
 ## Call for Lightning Talk Submissions
-If you are interested in participating in our lightning talks session, please fill out the form below.  
 
-**[Lightning Talks Registration form](https://forms.gle/WLjjGrY18ZFRjDGh9)**
+On the first day of the symposium, [Monday June 7](schedule), we will have a _lightning talks sessions_, featuring 3-minute video presentations by the participants. If you are interested in participating in our lightning talks session, please fill out the form below.
 
-You’ll be asked to provide a short abstract (250 words) of your presentation. You will receive a notice before May 24th if you are chosen and will then be asked to send us a 3-minute video to present at the event.
+{% include registration-message.html title="Lightning talk applications" message="You’ll be asked to provide a short abstract (250 words) of your presentation. You will receive a notice before May 24th if you are selected and will then be asked to submit a 3-minute video to present at the event." button="Application form" link="https://forms.gle/WLjjGrY18ZFRjDGh9" %}
 
 ---
 
-## Monday, 7 June 2021
+## The program at a glance
+
+### Day 1: Monday, 7 June 2021
 
 - Keynote lectures
 - Student Lightning talks
 - Panel discussion
 
-## Tuesday, 8 June 2021
+### Day 2: Tuesday, 8 June 2021
 
 - Educational Workshops
 - Neuro-AI Breakout Sessions
 
 ---
 
-### Important dates
+## Important dates
 
 * Registration due: Friday, 28 May 2021  
-* Lightning Talks Registraion due: Friday, 14 May 2021
+* Lightning Talks Registration due: Friday, 14 May 2021
