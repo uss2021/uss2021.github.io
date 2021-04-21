@@ -9,14 +9,14 @@
 - name: Break
   date: 20210607
   time_start: "14:15"
-  time_end: "14:30"
+  time_end: "14:20"
 - name: Lightning talks
   date: 20210607
-  time_start: "14:30"
-  time_end: "15:00"
-- name: Break
+  time_start: "14:20"
+  time_end: "14:50"
+- name: Lightning talk live Q&A + Social
   date: 20210607
-  time_start: "15:00"
+  time_start: "14:50"
   time_end: "15:15"
 - name: Keynote talk
   date: 20210607
