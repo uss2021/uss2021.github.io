@@ -55,4 +55,4 @@ We strive to create an accessible and inclusive event. Please be informed that:
 
 ## Contact
 
-If you have questions, feedback or just want to say hi, please send us an email to `{{ site.email }}`.
+If you have questions, feedback or just want to say hi, please send us an email to `{{ site.email }}`. You may follow UNIQUE on [Twitter](https://twitter.com/ai_unique) for announcements.
