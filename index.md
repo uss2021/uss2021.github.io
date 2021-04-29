@@ -43,6 +43,16 @@ On the first day of the symposium, [Monday June 7](schedule), we will have a _li
 * Registration due: Friday, 28 May 2021  
 * Lightning Talks Registration due: Friday, 14 May 2021
 
+---
+
+## Accessibility and Code of Conduct
+We strive to create an accessible and inclusive event. Please be informed that: 
+
+- All participants are required to follow the [Code of Conduct](coc).
+- Recording of Day 1 will be available for asynchronous attendance.
+- On Chrome, you can enable Live Caption feature following [this video](https://www.youtube.com/embed/KDP8a5s8yaU).
+- If you have any accessibility needs that you would like us to know, please contact us at `{{ site.email }}`.
+
 ## Contact
 
 If you have questions, feedback or just want to say hi, please send us an email to `{{ site.email }}`.
