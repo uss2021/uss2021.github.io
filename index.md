@@ -50,13 +50,8 @@ We strive to create an accessible and inclusive event.
 Please be informed that: 
 - All participants are required to follow the [Code of Conduct](coc).
 - Recording of Day 1 will be available for asynchronous attendance.
+- On Chrome, you can enable Live Caption feature following [this video](https://www.youtube.com/embed/KDP8a5s8yaU).
 - If you have any accessibility needs that you would like us to know, please contact us at  `{{ site.email }}`.
-
-- If you use Chrome, here is how you can enable Live Caption.
-<figure class="video_container">
-    <iframe src="https://www.youtube.com/embed/KDP8a5s8yaU" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
 
 ## Contact
 
