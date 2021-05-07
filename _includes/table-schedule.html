@@ -2,13 +2,17 @@
   <thead>
     <tr>
       <th>Time (EDT)</th>
-      <th>Event</th>
+      <th>Session</th>
+      <th>Speaker(s)</th>
+      <th>Title</th>
     </tr>
   </thead>
   <tbody>
     {% assign schedule = site.data.schedule | where: "date", include.date %}
     {% assign schedule = schedule | sort: 'time_start' %}
     {% for event in schedule %}
+      {% capture session %}{{ event.date }}{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}{% endcapture %}
+      {% assign speaker = site.data.speakers | where: "session", session | first %}
         <tr>
         <td><a href="https://www.timeanddate.com/worldclock/converter.html?iso={{ event.date }}T{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}00">{{ event.time_start }}</a> - <a href="https://www.timeanddate.com/worldclock/converter.html?iso={{ event.date }}T{{ event.time_end | split: ":" | first }}{{ event.time_end | split: ":" | last }}00">{{ event.time_end }}</a></td>
         {% if event.session %}
@@ -16,6 +20,8 @@
         {% else %}
           <td>{{ event.name }}</td>
         {% endif %}
+          <td>{{ speaker.fullname }}</td>
+          <td>{{ speaker.title }}</td>
         </tr>
     {% endfor %}
   </tbody>
