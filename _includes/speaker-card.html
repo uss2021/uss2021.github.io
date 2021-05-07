@@ -1,6 +1,7 @@
+
 <div class="columns container">
-  <div class="column is-one-fifth"></div>
-  <div class="column">
+  <div class="column"></div>
+  <div class="column is-four-fifths">
     <div class="card">
       <div class="card-content">
         <div class="media">
@@ -21,6 +22,8 @@
         </div>
         <div class="content">
           <p>{{ person.bio }}</p>
+          <p class="title is-5">{{ person.title }}</p>
+          <p><strong>Abstract: </strong>{{ person.abstract }}</p>
           {% if person.website != "none" %}
             <a class="tag" href="{{ person.website }}">Website</a>
           {% endif %}
@@ -31,5 +34,5 @@
       </div>
     </div>
 	</div>
-  <div class="column is-one-fifth"></div>
+  <div class="column"></div>
 </div>

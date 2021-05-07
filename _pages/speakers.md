@@ -4,6 +4,7 @@ layout: page
 toc: true
 permalink: /speakers
 ---
+# Monday June 7th
 {% assign people = site.data.speakers | sample: site.data.speakers.size %}
 {% for person in people %}
   {% assign side = forloop.index0 | modulo: 2 %}
@@ -13,4 +14,6 @@ permalink: /speakers
       {% include speaker-card.html %}
     {% endif %}
 {% endfor %}
+
+# Tuesday June 7th
   
