@@ -13,7 +13,8 @@
   website: https://faculty.sites.uci.edu/cnclab/
   title: Linking metacognition and consciousness with computational models
   abstract: Few people tackle the neural or computational basis of qualitative experience (Frith, 2019). Why? One major reason is that science and philosophy have both struggled to propose how we might even begin to start studying it. Here I propose that metacognitive computations, and the subjective feelings that go along with them, give us a solid starting point. Specifically, perceptual metacognition possesses unique properties that provide a powerful and unique opportunity for studying the neural and computational correlates of subjective experience. I will describe these properties, and discuss how computational models of metacognition can be used to an empirically-tractable early step in identifying the generative process that constructs qualitative experience, drawing on empirical data. By applying decades of developments in computational cognitive science and formal computational model comparisons to the specific properties of perceptual metacognition, we may reveal new and exciting insights about how the brain constructs subjective conscious experiences and the nature of those experiences themselves.
-- fullname: Megan Peters
+  session: 202106071315
+- fullname: Speaker Two
   pronouns: "she/her"
   affiliations: 
   - Cognitive Sciences, UC Irvine
