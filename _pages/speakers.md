@@ -1,12 +1,16 @@
 ---
 title: Speakers
-subtitle:
 layout: page
 toc: true
-show_sidebar: false
-# hero_height: is-small
 permalink: /speakers
 ---
-Speaker | Presentation Title
----------|-------------------
-TBA | TBA
+{% assign people = site.data.speakers | sample: site.data.speakers.size %}
+{% for person in people %}
+  {% assign side = forloop.index0 | modulo: 2 %}
+    {% if side == 0 %}
+      {% include speaker-card.html %}
+    {% else %}
+      {% include speaker-card.html %}
+    {% endif %}
+{% endfor %}
+  
