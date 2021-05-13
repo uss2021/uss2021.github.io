@@ -6,6 +6,7 @@ permalink: /speakers
 # Monday June 7th
 {% assign people = site.data.speakers | sample: site.data.speakers.size %}
 {% for person in people %}
+  {% if person.fullname == "TBA" %}{% continue %}{% endif %}
   {% for session in person.sessions %}
     {% assign sessionright = false %}
     {% if session contains "20210607" %}
@@ -25,6 +26,7 @@ permalink: /speakers
 # Tuesday June 8th
 {% assign people = site.data.speakers | sample: site.data.speakers.size %}
 {% for person in people %}
+  {% if person.fullname == "TBA" %}{% continue %}{% endif %}
   {% for session in person.sessions %}
     {% assign sessionright = false %}
     {% if session contains "20210608" %}

@@ -15,7 +15,7 @@
   abstract: Few people tackle the neural or computational basis of qualitative experience (Frith, 2019). Why? One major reason is that science and philosophy have both struggled to propose how we might even begin to start studying it. Here I propose that metacognitive computations, and the subjective feelings that go along with them, give us a solid starting point. Specifically, perceptual metacognition possesses unique properties that provide a powerful and unique opportunity for studying the neural and computational correlates of subjective experience. I will describe these properties, and discuss how computational models of metacognition can be used to an empirically-tractable early step in identifying the generative process that constructs qualitative experience, drawing on empirical data. By applying decades of developments in computational cognitive science and formal computational model comparisons to the specific properties of perceptual metacognition, we may reveal new and exciting insights about how the brain constructs subjective conscious experiences and the nature of those experiences themselves.
   sessions: 
   - "202106071515"
-  - "202106071630"
+  - "202106071630panel"
 - fullname: W.F.G. Haselager (Pim)
   affiliations: 
   - Donders Institute for Brain, Cognition and Behaviour
@@ -23,6 +23,7 @@
   position: Associate Professor
   photo: pim_haselager.jpg
   alttext: W.F.G. Haselager (Pim)
+  title: TBA
   website: https://www.ru.nl/english/people/haselager-w/
   sessions: 
   - "202106071315"
@@ -34,19 +35,21 @@
   position: Assistant Professor
   photo: guillaume_lajoie.jpg
   alttext: Guillaume Lajoie
+  title: Machine learning and Neuroscience
   twitter: https://twitter.com/g_lajoie_
   website: https://www.guillaumelajoie.com/
   sessions: 
-  - "202106081315"
+  - "202106081315breakout"
 - fullname: Paul Cisek
   nametitle: Ph.D.
   affiliations: 
   - Department of Neuroscience, Université de Montréal
   photo: paul_cisek.jpg
   alttext: Paul Cisek
+  title: Decision Making
   website: http://www.cisek.org/pavel/
   sessions: 
-  - "202106081515"
+  - "202106081515breakout"
 - fullname: Thomas R. Shultz
   nametitle: Ph.D.
   position: Professor
@@ -55,8 +58,9 @@
   photo: thomas_shultz.jpg
   alttext: Thomas Shultz
   website: https://www.mcgill.ca/psychology/thomas-r-shultz
+  title: Memory and Learning
   sessions: 
-  - "202106081415"
+  - "202106081415breakout"
 - fullname: Robin Renault
   position: Doctoral student
   affiliations: 
@@ -64,21 +68,46 @@
   photo: robin_renault.jpg
   alttext: Robin Renault
   bio: "Currently doctoral student in clinical psychology, I am particularly interested in ways of fostering awareness, presence, and well-being through the practice of mindfulness. I have been practicing meditation for almost ten years now, in addition to yoga and different breathing techniques, all of which helped me going through anxiety and depression some years ago. As my doctoral thesis, I am now studying the effects of mindfulness practice by therapists on the efficacy of therapy. My hope is to encourage people develop more awareness to their inner world, as well as to find more peace and balance in their life."
+  title: Round table on mental health
   sessions: 
-  - "202106081315"
+  - "202106081315roundtable"
 - fullname: Marie-Ève Vautrin Nadeau
   position: PhD candidate
   affiliations: 
   - Université de Montréal
   photo: marie-eve_vautrin_nadeau.jpg
   alttext: Marie-Ève Vautrin Nadeau
+  title: Round table on mental health
   sessions: 
-  - "202106081315"
+  - "202106081315roundtable"
 - fullname: Aislinn Sandre
   position: PhD student
   affiliations: 
   - McGill University
   photo: aislinn_sandre.jpg
   alttext: Aislinn Sandre
+  title: Round table on mental health
   sessions: 
-  - "202106081315"
+  - "202106081315roundtable"
+- fullname: Samuel Guay
+  position: PhD student
+  affiliations: 
+  - Université de Montréal
+  photo: samuel_guay.jpg
+  alttext: Samuel Guay
+  title: First steps into Open Science
+  sessions: 
+  - "202106081415workshop"
+- fullname: TBA
+  alttext: TBA
+  title: Make your science more inclusive
+  sessions: 
+  - "202106081515workshop"
+- fullname: TBA
+  alttext: TBA
+  sessions: 
+  - "202106071630panel"
+- fullname: TBA
+  alttext: TBA
+  sessions: 
+  - "202106071630panel"
