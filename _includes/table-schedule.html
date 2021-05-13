@@ -15,13 +15,20 @@
       {% assign speakers = site.data.speakers | sample: site.data.speakers.size | where: "sessions", session %}
       {% capture speakersnames %}
       {% for speaker in speakers | sample: speakers.size %}
-        {{ speaker.fullname }}  
+        <a href="speakers#{{ speaker.photo | replace: ".jpg" "" }}">{{ speaker.fullname }}</a>
         {% if forloop.last == false %}, {% endif %}
       {% endfor %}
       {% endcapture %}
       {% capture eventtitle %}
       {% for speaker in speakers %}
-        {{ speaker.title }}  
+        {% if speaker.abstract %}
+        <details>
+          <summary>{{ speaker.title }}</summary>
+          {{ speaker.abstract }}
+        </details>
+        {% else %}
+          {{ speaker.title }}
+        {% endif %}
         {% break %}
       {% endfor %}
       {% endcapture %}

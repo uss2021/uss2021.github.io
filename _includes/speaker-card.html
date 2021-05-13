@@ -2,7 +2,7 @@
 <div class="columns container">
   <div class="column"></div>
   <div class="column is-four-fifths">
-    <div class="card">
+    <div class="card" id="{{ person.photo | replace: ".jpg" "" }}">
       <div class="card-content">
         <div class="media">
           <div class="media-left">
@@ -21,15 +21,24 @@
           </div>
         </div>
         <div class="content">
-          {% if person.bio != "none" %}
-          <p>{{ person.bio }}</p>
+          {% if person.bio %}
+            <details>
+              <summary><strong>Bio</strong></summary>
+                {{ person.bio }}
+            </details>
+          <br>
           {% endif %}
           {% if person.title %}
-          <p class="title is-5">{{ person.title }}</p>
           {% endif %}
           {% if person.abstract %}
-          <p><strong>Abstract: </strong>{{ person.abstract }}</p>
+            <details>
+              <summary><span class="title is-5">{{ person.title }}</span></summary>
+                {{ person.abstract }}
+            </details>
+          {% else %}
+          <p class="title is-5">{{ person.title }}</p>
           {% endif %}
+          <br>
           {% if person.website %}
             <a class="tag" href="{{ person.website }}">Website</a>
           {% endif %}
