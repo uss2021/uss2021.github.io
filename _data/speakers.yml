@@ -13,19 +13,72 @@
   website: https://faculty.sites.uci.edu/cnclab/
   title: Linking metacognition and consciousness with computational models
   abstract: Few people tackle the neural or computational basis of qualitative experience (Frith, 2019). Why? One major reason is that science and philosophy have both struggled to propose how we might even begin to start studying it. Here I propose that metacognitive computations, and the subjective feelings that go along with them, give us a solid starting point. Specifically, perceptual metacognition possesses unique properties that provide a powerful and unique opportunity for studying the neural and computational correlates of subjective experience. I will describe these properties, and discuss how computational models of metacognition can be used to an empirically-tractable early step in identifying the generative process that constructs qualitative experience, drawing on empirical data. By applying decades of developments in computational cognitive science and formal computational model comparisons to the specific properties of perceptual metacognition, we may reveal new and exciting insights about how the brain constructs subjective conscious experiences and the nature of those experiences themselves.
-  session: 202106071315
-- fullname: Speaker Two
-  pronouns: "she/her"
+  sessions: 
+  - "202106071515"
+  - "202106071630"
+- fullname: W.F.G. Haselager (Pim)
   affiliations: 
-  - Cognitive Sciences, UC Irvine
-  - CIFAR Global Scholar
-  - Azrieli Program in Brain, Mind, & Consciousness
-  title: Ph.D.
-  bio: I am an Assistant professor at the UC Irvine Department of Cognitive Sciences. I'm also a Cooperating Researcher in the Department of Decoded Neurofeedback at Advanced Telecommunications Research Institute International in Kyoto, Japan. Prior to joining UCI I was on the faculty at UC Riverside in the Department of Bioengineering. I received my Ph.D. in computational cognitive neuroscience (psychology) from UCLA and then was a postdoc there as well. My research aims to reveal how the brain represents and uses uncertainty, and performs adaptive computations based on noisy, incomplete information. I specifically focus on how these abilities support metacognitive evaluations of the quality of (mostly perceptual) decisions, and how these processes might relate to phenomenology and conscious awareness. I use neuroimaging, computational modeling, machine learning and neural stimulation techniques to study these topics.
+  - Donders Institute for Brain, Cognition and Behaviour
+  nametitle: Dr.
+  position: Associate Professor
+  photo: pim_haselager.jpg
+  alttext: W.F.G. Haselager (Pim)
+  website: https://www.ru.nl/english/people/haselager-w/
+  sessions: 
+  - "202106071315"
+- fullname: Guillaume Lajoie
+  affiliations: 
+  - Dept. de Mathématiques et Statistiques, Université de Montréal
+  - Mila, Québec AI Institute
+  - Canada CIFAR AI Chair
   position: Assistant Professor
-  photo: megan_peters.jpg
-  alttext: Megan Peters
-  twitter: https://twitter.com/meganakpeters
-  website: https://faculty.sites.uci.edu/cnclab/
-  title: Linking metacognition and consciousness with computational models
-  abstract: Few people tackle the neural or computational basis of qualitative experience (Frith, 2019). Why? One major reason is that science and philosophy have both struggled to propose how we might even begin to start studying it. Here I propose that metacognitive computations, and the subjective feelings that go along with them, give us a solid starting point. Specifically, perceptual metacognition possesses unique properties that provide a powerful and unique opportunity for studying the neural and computational correlates of subjective experience. I will describe these properties, and discuss how computational models of metacognition can be used to an empirically-tractable early step in identifying the generative process that constructs qualitative experience, drawing on empirical data. By applying decades of developments in computational cognitive science and formal computational model comparisons to the specific properties of perceptual metacognition, we may reveal new and exciting insights about how the brain constructs subjective conscious experiences and the nature of those experiences themselves.
+  photo: guillaume_lajoie.jpg
+  alttext: Guillaume Lajoie
+  twitter: https://twitter.com/g_lajoie_
+  website: https://www.guillaumelajoie.com/
+  sessions: 
+  - "202106081315"
+- fullname: Paul Cisek
+  nametitle: Ph.D.
+  affiliations: 
+  - Department of Neuroscience, Université de Montréal
+  photo: paul_cisek.jpg
+  alttext: Paul Cisek
+  website: http://www.cisek.org/pavel/
+  sessions: 
+  - "202106081515"
+- fullname: Thomas R. Shultz
+  nametitle: Ph.D.
+  position: Professor
+  affiliations: 
+  - Department of Psychology, McGill University
+  photo: thomas_shultz.jpg
+  alttext: Thomas Shultz
+  website: https://www.mcgill.ca/psychology/thomas-r-shultz
+  sessions: 
+  - "202106081415"
+- fullname: Robin Renault
+  position: Doctoral student
+  affiliations: 
+  - Université de Montréal
+  photo: robin_renault.jpg
+  alttext: Robin Renault
+  bio: "Currently doctoral student in clinical psychology, I am particularly interested in ways of fostering awareness, presence, and well-being through the practice of mindfulness. I have been practicing meditation for almost ten years now, in addition to yoga and different breathing techniques, all of which helped me going through anxiety and depression some years ago. As my doctoral thesis, I am now studying the effects of mindfulness practice by therapists on the efficacy of therapy. My hope is to encourage people develop more awareness to their inner world, as well as to find more peace and balance in their life."
+  sessions: 
+  - "202106081315"
+- fullname: Marie-Ève Vautrin Nadeau
+  position: PhD candidate
+  affiliations: 
+  - Université de Montréal
+  photo: marie-eve_vautrin_nadeau.jpg
+  alttext: Marie-Ève Vautrin Nadeau
+  sessions: 
+  - "202106081315"
+- fullname: Aislinn Sandre
+  position: PhD student
+  affiliations: 
+  - McGill University
+  photo: aislinn_sandre.jpg
+  alttext: Aislinn Sandre
+  sessions: 
+  - "202106081315"
