@@ -2,20 +2,34 @@
   <thead>
     <tr>
       <th>Time (EDT)</th>
-      <th>Event</th>
+      <th>Session</th>
+      <th>Speaker(s)</th>
+      <th>Title (tentative)</th>
     </tr>
   </thead>
   <tbody>
     {% assign schedule = site.data.schedule | where: "date", include.date %}
     {% assign schedule = schedule | sort: 'time_start' %}
     {% for event in schedule %}
+      {% capture session %}{{ event.date }}{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}{{ event.session }}{% endcapture %}
+      {% assign speakers = site.data.speakers | sample: site.data.speakers.size | where: "sessions", session %}
+      {% capture speakersnames %}
+      {% for speaker in speakers | sample: speakers.size %}
+        {{ speaker.fullname }}  
+        {% if forloop.last == false %}, {% endif %}
+      {% endfor %}
+      {% endcapture %}
+      {% capture eventtitle %}
+      {% for speaker in speakers %}
+        {{ speaker.title }}  
+        {% break %}
+      {% endfor %}
+      {% endcapture %}
         <tr>
         <td><a href="https://www.timeanddate.com/worldclock/converter.html?iso={{ event.date }}T{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}00">{{ event.time_start }}</a> - <a href="https://www.timeanddate.com/worldclock/converter.html?iso={{ event.date }}T{{ event.time_end | split: ":" | first }}{{ event.time_end | split: ":" | last }}00">{{ event.time_end }}</a></td>
-        {% if event.session %}
-          <td colspan="1">{{ event.name }} <span class="tag is-info is-light is-rounded">{{ event.session }}</span></td>
-        {% else %}
           <td>{{ event.name }}</td>
-        {% endif %}
+          <td>{{ speakersnames }}</td>
+          <td>{{ eventtitle }}</td>
         </tr>
     {% endfor %}
   </tbody>

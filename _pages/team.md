@@ -10,9 +10,9 @@ USS is organized every year by volunteer students from <a href="https://sites.go
 {% for person in people %}
   {% assign side = forloop.index0 | modulo: 2 %}
     {% if side == 0 %}
-      {% include bios-card.html %}
+      {% include team-card.html %}
     {% else %}
-      {% include bios-card.html %}
+      {% include team-card.html %}
     {% endif %}
 {% endfor %}
   
