@@ -15,9 +15,8 @@
           <div class="media-content">
             <p class="title is-4">{{ person.fullname }}</p>
             <p class="subtitle is-6">{{ person.pronouns }}</p>
-            {% for affiliation in person.affiliations %}
-              <p class="subtitle is-7">{{ affiliation }}</p>
-            {% endfor %}
+            <p class="subtitle is-6">{{ person.position }}</p>
+            <p class="subtitle is-7">{{ person.affiliations | join: " · " }}</p>
           </div>
         </div>
         <div class="content">
