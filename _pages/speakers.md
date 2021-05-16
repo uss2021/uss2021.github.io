@@ -42,3 +42,24 @@ permalink: /speakers
         {% endif %}
     {% endif %}
 {% endfor %}
+
+# Active Breaks Leaders
+{% assign people = site.data.speakers | sample: site.data.speakers.size %}
+{% for person in people %}
+  {% if person.fullname == "TBA" %}{% continue %}{% endif %}
+  {% for session in person.sessions %}
+    {% assign sessionright = false %}
+    {% if session contains "activebreak" %}
+        {% assign sessionright = true %}
+    {% endif %}
+  {% endfor %}
+    {% if sessionright %}
+      {% assign side = forloop.index0 | modulo: 2 %}
+        {% if side == 0 %}
+          {% include speaker-card.html %}
+        {% else %}
+          {% include speaker-card.html %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+
