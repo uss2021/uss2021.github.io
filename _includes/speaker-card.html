@@ -38,6 +38,9 @@
           <p class="title is-5">{{ person.title }}</p>
           {% endif %}
           <br>
+          {% if person.paper %}
+            <a class="tag" href="{{ person.paper }}">Relevant paper</a>
+          {% endif %}
           {% if person.website %}
             <a class="tag" href="{{ person.website }}">Website</a>
           {% endif %}
