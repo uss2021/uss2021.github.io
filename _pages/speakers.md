@@ -4,7 +4,7 @@ layout: page
 permalink: /speakers
 ---
 # Monday June 7th
-{% assign people = site.data.speakers | sample: site.data.speakers.size %}
+{% assign people = site.data.speakers %}
 {% for person in people %}
   {% if person.fullname == "TBA" %}{% continue %}{% endif %}
   {% for session in person.sessions %}

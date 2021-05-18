@@ -37,7 +37,24 @@
           {% else %}
           <p class="title is-5">{{ person.title }}</p>
           {% endif %}
+          {% for session in person.sessions %}
+            {% if session contains "panel" %}{% continue %}
+            {% else %}
+            {% capture talk %}
+              {% assign date = session | slice: 0, 8 %}
+              {% if date == "20210607" %}
+                <a href="schedule"><em>Monday, June 7th, {{ session | slice: 8, 2 }}:{{ session | slice: 10, 2 }} (EDT)</em></a>
+              {% elsif date == "20210608" %}
+                <a href="schedule"><em>Tuesday, June 8th, {{ session | slice: 8, 2 }}:{{ session | slice: 10, 2 }} (EDT)</em></a>
+              {% endif %}
+            {% endcapture %}
+            <p class="subtitle is-6">{{ talk }}</p>
+            {% endif %}
+          {% endfor %}
           <br>
+          {% if person.paper %}
+            <a class="tag" href="{{ person.paper }}">Relevant paper</a>
+          {% endif %}
           {% if person.website %}
             <a class="tag" href="{{ person.website }}">Website</a>
           {% endif %}
