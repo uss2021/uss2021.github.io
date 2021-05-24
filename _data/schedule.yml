@@ -14,7 +14,7 @@
   date: 20210607
   time_start: "14:20"
   time_end: "14:50"
-- name: Lightning talk live Q&A + Social
+- name: Lightning talk live Q&A + Social (Active Break at 15:10-15:15)
   date: 20210607
   time_start: "14:50"
   time_end: "15:15"
@@ -22,7 +22,7 @@
   date: 20210607
   time_start: "15:15"
   time_end: "16:15"
-- name: Break
+- name: Break (Active Break at 16:25-16:30)
   date: 20210607
   time_start: "16:15"
   time_end: "16:30"
@@ -64,7 +64,7 @@
   time_start: "14:15"
   time_end: "15:00"
   session: breakout
-- name: Break
+- name: Break (Active Break at 15:10-15:15)
   date: 20210608
   time_start: "15:00"
   time_end: "15:15"
