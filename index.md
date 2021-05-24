@@ -41,7 +41,7 @@ On the first day of the symposium, [Monday June 7](schedule), we will have a _li
 ## Important dates
 
 * Registration due: Friday May 28th, 2021 (23h59, UTC -12)  
-* Lightning Talks Registration due: Thursday May 20th, 2021 (23h59, UTC -12)
+* Lightning Talks Registration due: ~~Thursday May 20th, 2021 (23h59, UTC -12)~~
 
 ---
 
