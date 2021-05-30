@@ -21,6 +21,7 @@
       {% endcapture %}
       {% capture eventtitle %}
       {% for speaker in speakers %}
+      {% if event.session contains "panel" %}Panel discussion{% break %}{% endif %}
         {% if speaker.abstract %}
         <details>
           <summary>{{ speaker.title }}</summary>
