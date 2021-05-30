@@ -4,7 +4,7 @@
       <th>Time (EDT)</th>
       <th>Session</th>
       <th>Speaker(s)</th>
-      <th>Title (tentative)</th>
+      <th>Title</th>
     </tr>
   </thead>
   <tbody>
@@ -21,6 +21,7 @@
       {% endcapture %}
       {% capture eventtitle %}
       {% for speaker in speakers %}
+      {% if event.session contains "panel" %}Panel discussion{% break %}{% endif %}
         {% if speaker.abstract %}
         <details>
           <summary>{{ speaker.title }}</summary>
@@ -33,7 +34,7 @@
       {% endfor %}
       {% endcapture %}
         <tr>
-        <td><a href="https://www.timeanddate.com/worldclock/converter.html?iso={{ event.date }}T{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}00">{{ event.time_start }}</a> - <a href="https://www.timeanddate.com/worldclock/converter.html?iso={{ event.date }}T{{ event.time_end | split: ":" | first }}{{ event.time_end | split: ":" | last }}00">{{ event.time_end }}</a></td>
+          <td><a href="https://www.timeanddate.com/worldclock/converter.html?iso={{ event.date }}T{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}00">{{ event.time_start }}</a> - <a href="https://www.timeanddate.com/worldclock/converter.html?iso={{ event.date }}T{{ event.time_end | split: ":" | first }}{{ event.time_end | split: ":" | last }}00">{{ event.time_end }}</a></td>
           <td>{{ event.name }}</td>
           <td>{{ speakersnames }}</td>
           <td>{{ eventtitle }}</td>
