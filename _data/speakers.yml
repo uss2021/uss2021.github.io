@@ -33,6 +33,31 @@
   sessions: 
   - "202106071315"
   - "202106071630panel"
+- fullname: Stefanie Blain-Moraes
+  affiliations: 
+  - McGill University, School of Physical & Occupational Therapy
+  bio: "Dr. Blain-Moraes runs the Biosignal Interaction and Personhood Technology (BIAPT) lab at McGill.  Her lab applies physiological signal processing techniques and assistive technology design principles to address the needs of non-communicative individuals and their care providers."
+  position: Assistant Professor
+  photo: stefanie_blain-moraes.jpg
+  alttext: Stefanie Blain-Moraes
+  website: https://www.mcgill.ca/spot/stefanie-blain-moraes
+  title: Panel Discussion
+  sessions: 
+  - "202106071630panel"
+- fullname: Irina Rish
+  affiliations: 
+  - Université de Montréal
+  - Mila, Québec AI Institute
+  - Canada AI Chair
+  bio: "Irina Rish is an Associate Professor in the Computer Science and Operations Research Department at the Université de Montréal (UdeM) and a core faculty member of MILA - Quebec AI Institute. She holds Canada Excellence Research Chair (CERC) in Autonomous AI and a Canadian Institute for Advanced Research (CIFAR) Canada AI Chair. She received her MSc and PhD in AI from University of California, Irvine and MSc in Applied Mathematics from Moscow Gubkin Institute. Dr. Rish's research focus is on machine learning, neural data analysis and neuroscience-inspired AI."
+  position: Associate Professor
+  photo: irina_rish.jpg
+  alttext: Irina Rish
+  twitter: https://twitter.com/irinarish
+  website: https://sites.google.com/site/irinarish/
+  title: Panel Discussion
+  sessions: 
+  - "202106071630panel"
 - fullname: Guillaume Lajoie
   affiliations: 
   - Dept. de Mathématiques et Statistiques, Université de Montréal
@@ -105,19 +130,17 @@
   title: First steps into Open Science
   sessions: 
   - "202106081415workshop"
-- fullname: TBA
-  alttext: TBA
-  title: Make your science more inclusive
+- fullname: Madeleine Elise Nadler
+  alttext: Madeleine Elise Nadler
+  pronouns: "she/her"
+  position: Recent BA Graduate
+  affiliations: 
+  - Concordia, Interdisciplinary Studies in Sexuality, Women's Studies, and Religions and Cultures
+  photo: madeleine_elise_nadler.jpg
+  title: "Developing, Disseminating, and Diversifying Knowledge: An Introduction to Equity, Diversity, and Inclusion (EDI) in Academia"
+  abstract: "This workshop is designed for new students as well as those with no background in Equity, Diversity, and Inclusion (EDI). The workshop aims to help develop awareness of EDI concepts and issues in Academia. Participants will be introduced to basics of EDI in both theory and reality with relation to data-driven research as well as current events."
   sessions: 
   - "202106081515workshop"
-- fullname: TBA
-  alttext: TBA
-  sessions: 
-  - "202106071630panel"
-- fullname: TBA
-  alttext: TBA
-  sessions: 
-  - "202106071630panel"
 - fullname: Caelan Taylor
   alttext: Caelan Taylor
   sessions: 
