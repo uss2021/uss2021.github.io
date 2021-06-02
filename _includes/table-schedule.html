@@ -5,6 +5,7 @@
       <th>Session</th>
       <th>Speaker(s)</th>
       <th>Title</th>
+      <th>Platform</th>
     </tr>
   </thead>
   <tbody>
@@ -35,9 +36,19 @@
       {% endcapture %}
         <tr>
           <td><a href="https://www.timeanddate.com/worldclock/converter.html?iso={{ event.date }}T{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}00">{{ event.time_start }}</a> - <a href="https://www.timeanddate.com/worldclock/converter.html?iso={{ event.date }}T{{ event.time_end | split: ":" | first }}{{ event.time_end | split: ":" | last }}00">{{ event.time_end }}</a></td>
-          <td>{{ event.name }}</td>
+          {% case event.platform %}
+            {% when "Crowdcast" %}
+              <td><strong>{{ event.name }}</strong></td>
+            {% when "Zoom 1" %}
+              <td><strong>{{ event.name }}</strong></td>
+            {% when "Zoom 2" %}
+              <td><strong>{{ event.name }}</strong></td>
+            {% else %}
+              <td>{{ event.name }}</td>
+          {% endcase %}
           <td>{{ speakersnames }}</td>
           <td>{{ eventtitle }}</td>
+          <td>{{ event.platform }}</td>
         </tr>
     {% endfor %}
   </tbody>
