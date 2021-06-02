@@ -28,7 +28,7 @@
   time_start: "15:10"
   time_end: "15:15"
   session: activebreak
-  platform: Gather.town
+  platform: Crowdcast
 - name: Keynote talk
   date: 20210607
   time_start: "15:15"
@@ -44,7 +44,7 @@
   time_start: "16:25"
   time_end: "16:30"
   session: activebreak
-  platform: Gather.town
+  platform: Crowdcast
 - name: Panel discussion
   date: 20210607
   time_start: "16:30"
