@@ -35,7 +35,7 @@
       {% endfor %}
       {% endcapture %}
         <tr>
-          <td><a href="https://www.timeanddate.com/worldclock/converter.html?iso={{ event.date }}T{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}00">{{ event.time_start }}</a> - <a href="https://www.timeanddate.com/worldclock/converter.html?iso={{ event.date }}T{{ event.time_end | split: ":" | first }}{{ event.time_end | split: ":" | last }}00">{{ event.time_end }}</a></td>
+          <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=UNIQUE+Student+Symposium&iso={{ event.date }}T{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}00&p1=165">{{ event.time_start }}</a> - {{ event.time_end }}</td>
           {% case event.platform %}
             {% when "Crowdcast" %}
               <td><strong>{{ event.name }}</strong></td>
