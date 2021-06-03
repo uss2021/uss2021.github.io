@@ -18,7 +18,7 @@ Le principal concept soutenant le présent Code de conduite est le respect. Le r
 - Respect de l’identité de genre (ou des préférences)
 - Respect du statut
 - Respect par rapport aux handicaps physiques et/ou mentaux
-- Respect des expériences personnelle (académiques at autres)
+- Respect des expériences personnelle (académiques et autres)
 - Respect des différences en général
 
 Les différences sont la source de l’unicité de chaque individu. C’est aussi ce qui permet à chacun d’entre nous d’apporter une contribution spéciale à notre communauté de recherche. Elles ne devraient jamais être utilisées dans le but de discriminer, elles devraient plutôt être encouragées et soutenues. Il est aussi important de reconnaître que tous les membres de cette communauté n’ont pas le même niveau de compréhension de chaque champ de recherche abordé lors de cet événement et que nous apportons tous et toutes un bagage académique et expérientiel différent à cette communauté. Cette variété est importante et nous permet de toujours repousser les frontières de la recherche scientifique. Nous avons tous nos spécialités et nous pouvons tous apprendre les un.e.s des autres.
