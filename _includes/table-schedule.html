@@ -48,7 +48,11 @@
           {% endcase %}
           <td>{{ speakersnames }}</td>
           <td>{{ eventtitle }}</td>
-          <td>{{ event.platform }}</td>
+          {% if event.youtube %}
+            <td>{{ event.platform }} & <a href="{{ event.youtube }}">YouTube</a></td>
+          {% else %}
+            <td>{{ event.platform }}</td>
+          {% endif %}
         </tr>
     {% endfor %}
   </tbody>
