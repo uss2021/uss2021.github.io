@@ -3,16 +3,19 @@
   time_start: "13:00"
   time_end: "13:15"
   platform: Crowdcast
+  youtube: https://youtu.be/g_5-h7QPSkg
 - name: Keynote talk
   date: 20210607
   time_start: "13:15"
   time_end: "14:15"
   platform: Crowdcast
+  youtube: https://youtu.be/DBPuwN_Hdic
 - name: Lightning talks
   date: 20210607
   time_start: "14:20"
   time_end: "14:50"
   platform: Crowdcast
+  youtube: https://youtu.be/NZuI3IzxNu8
 - name: Lightning talks Q&A
   date: 20210607
   time_start: "14:50"
@@ -34,6 +37,7 @@
   time_start: "15:15"
   time_end: "16:15"
   platform: Crowdcast
+  youtube: https://youtu.be/jLsAnQN69mQ
 - name: Social break
   date: 20210607
   time_start: "16:15"
@@ -51,11 +55,13 @@
   time_end: "17:15"
   session: panel
   platform: Crowdcast
+  youtube: https://youtu.be/FIsNN2Fc1vc
 - name: Closing remarks
   date: 20210607
   time_start: "17:15"
   time_end: "17:30"
   platform: Crowdcast
+  youtube: https://youtu.be/pkMXuO_tChY
 
 - name: Opening remarks
   date: 20210608
