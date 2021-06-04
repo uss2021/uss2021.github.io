@@ -22,7 +22,7 @@
       {% endcapture %}
       {% capture eventtitle %}
       {% for speaker in speakers %}
-      {% if event.session contains "panel" %}Panel discussion{% break %}{% endif %}
+      {% if event.session contains "panel" %}Panel discussion: An interdisciplinary view of present and future of consciousness research{% break %}{% endif %}
         {% if speaker.abstract %}
         <details>
           <summary>{{ speaker.title }}</summary>
@@ -36,22 +36,17 @@
       {% endcapture %}
         <tr>
           <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=UNIQUE+Student+Symposium&iso={{ event.date }}T{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}00&p1=165">{{ event.time_start }}</a> - {{ event.time_end }}</td>
-          {% case event.platform %}
-            {% when "Crowdcast" %}
-              <td><strong>{{ event.name }}</strong></td>
-            {% when "Zoom 1" %}
-              <td><strong>{{ event.name }}</strong></td>
-            {% when "Zoom 2" %}
-              <td><strong>{{ event.name }}</strong></td>
+          {% unless event.name contains "break" %}
+						<td><strong>{{ event.name }}</strong></td>
             {% else %}
-              <td>{{ event.name }}</td>
-          {% endcase %}
+						<td>{{ event.name }}</td>
+          {% endunless %}
           <td>{{ speakersnames }}</td>
           <td>{{ eventtitle }}</td>
           {% if event.youtube %}
-            <td>{{ event.platform }} & <a href="{{ event.youtube }}">YouTube</a></td>
+          <td><a href="{{ event.platform | split: "+" | last }}">{{ event.platform | split: "+" | first }}</a> & <a href="{{ event.youtube }}">YouTube</a></td>
           {% else %}
-            <td>{{ event.platform }}</td>
+            <td><a href="{{ event.platform | split: "+" | last }}">{{ event.platform | split: "+" | first }}</a></td>
           {% endif %}
         </tr>
     {% endfor %}
