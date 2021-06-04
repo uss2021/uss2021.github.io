@@ -22,7 +22,7 @@
       {% endcapture %}
       {% capture eventtitle %}
       {% for speaker in speakers %}
-      {% if event.session contains "panel" %}Panel discussion{% break %}{% endif %}
+      {% if event.session contains "panel" %}Panel discussion: An interdisciplinary view of present and future of consciousness research{% break %}{% endif %}
         {% if speaker.abstract %}
         <details>
           <summary>{{ speaker.title }}</summary>
