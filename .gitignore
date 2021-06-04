@@ -8,3 +8,4 @@ vendor
 .cemetery
 Gemfile.lock
 assets/img/team/*_orig*
+assets/img/speakers/*_orig*
