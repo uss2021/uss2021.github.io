@@ -4,6 +4,10 @@ subtitle:
 layout: page
 permalink: /coc
 ---
+<div class="box">
+  <a href="/coc_fr.html">Lire en français</a>
+</div>
+
 # USS 2021 Code of conduct
 In order to have safe and pleasant exchanges during this event, it is required from every participant to read and follow this USS 2021 Code of conduct. Since USS 2021 applies a strict zero tolerance policy, participants who fail to follow the Code of conduct will be banned or expelled from the event, the same way they would be removed during an in-person event.
 

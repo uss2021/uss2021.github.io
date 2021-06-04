@@ -10,9 +10,13 @@ The times are Eastern Daylight Time (Quebec local time, UTC-4). Click on the tim
 
 ## Monday, 7 June
 
-{% include table-schedule.html date="20210607" %}
+The main sessions of Day 1 will take place on [Crowdcast](https://www.crowdcast.io/) and the social breaks on [Gather](https://gather.town/). If you have registered, you should have received the links of the event via email. The sessions on Crowdcast will be streamed through our [YouTube channel](https://www.youtube.com/channel/UCOoOsSZfudHl5vcUnCE3jrA) too. See the links of the individual session on the schedule.
+
+{% include table-schedule.html date="20210607" people="Speaker(s)" %}
 
 ## Tuesday, 8 June
 
-{% include table-schedule.html date="20210608" %}
+Day 2 consists of parallel sessions, that will take place on two separate Zoom rooms. If you have registered, you should have received the links of the event via email. As on Day 1, social breaks will take place on [Gather](https://gather.town/).
+
+{% include table-schedule.html date="20210608" people="Mentor(s)" %}
 

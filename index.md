@@ -7,9 +7,33 @@ toc: true
 # UNIQUE Student Symposium (USS)
 USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. This year USS will be held **online**, on June 7th and 8th, 2021.
 
+---
+
+## The program at a glance
+
+### Day 1: Monday, 7 June 2021
+
+- Keynote lectures: [Megan Peters](speakers#megan_peters) and [Pim Haselager](speakers#pim_haselager)
+- Panel discussion: [Megan Peters](speakers#megan_peters), [Pim Haselager](speakers#pim_haselager), [Stefanie Blain-Moraes](speakers#stefanie_blain-moraes) and [Irina Rish](speakers#irina_rish)
+- Student Lightning talks
+
+### Day 2: Tuesday, 8 June 2021
+
+- Educational workshops: mental health, open science, EDI
+- Neuro-AI breakout sessions: machine learning & neuroscience with [Guillaume Lajoie](speakers#guillaume_lajoie), memory & learning with [Thomas Shultz](speakers#thomas_shultz), decision making with [Paul Cisek](speakers#paul_cisek)
+
+---
+
+## Important dates
+
+* Registration due: ~~Friday May 28th (deadline extended!) Tuesday June 1st, 2021 (23h59, Anywhere on Earth)~~
+* Lightning Talks Registration due: ~~Thursday May 20th, 2021 (23h59, Anywhere on Earth)~~
+
+---
+
 ## Registration
 
-We warmly invite you to join us for this year’s edition of the UNIQUE Student Symposium.  
+~~We warmly invite you to join us for this year’s edition of the UNIQUE Student Symposium.~~  Registrations are now closed.
 
 {% include registration-message.html title="Registration" message="You can now register to USS 2021 using the link below!" button="Registration form" link="https://forms.gle/dkzE2zBwTk6Ga5Ft9" %}
 
@@ -20,28 +44,6 @@ We warmly invite you to join us for this year’s edition of the UNIQUE Student 
 On the first day of the symposium, [Monday June 7](schedule), we will have a _lightning talks sessions_, featuring 3-minute video presentations by the participants. If you are interested in participating in our lightning talks session, please fill out the form below.
 
 {% include registration-message.html title="Lightning talk applications" message="You’ll be asked to provide a short abstract (1500 characters) of your presentation. You will receive a notice on May 24th if you are selected and will then be asked to submit a 3-minute video to present at the event." button="Application form" link="https://forms.gle/WLjjGrY18ZFRjDGh9" %}
-
----
-
-## The program at a glance
-
-### Day 1: Monday, 7 June 2021
-
-- Keynote lectures
-- Student Lightning talks
-- Panel discussion
-
-### Day 2: Tuesday, 8 June 2021
-
-- Educational Workshops
-- Neuro-AI Breakout Sessions
-
----
-
-## Important dates
-
-* Registration due: ~~Friday May 28th~~ (deadline extended!) Tuesday June 1st, 2021 (23h59, Anywhere on Earth)  
-* Lightning Talks Registration due: ~~Thursday May 20th, 2021 (23h59, Anywhere on Earth)~~
 
 ---
 

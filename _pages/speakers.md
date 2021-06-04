@@ -9,9 +9,8 @@ permalink: /speakers
   {% if person.fullname == "TBA" %}{% continue %}{% endif %}
   {% for session in person.sessions %}
     {% assign sessionright = false %}
-    {% if session contains "20210607" %}
-        {% assign sessionright = true %}
-    {% endif %}
+    {% if session contains "20210607" %}{% assign sessionright = true %}{% endif %}
+    {% if session contains "activebreak" %}{% assign sessionright = false %}{% endif %}
   {% endfor %}
     {% if sessionright %}
       {% assign side = forloop.index0 | modulo: 2 %}
@@ -29,9 +28,8 @@ permalink: /speakers
   {% if person.fullname == "TBA" %}{% continue %}{% endif %}
   {% for session in person.sessions %}
     {% assign sessionright = false %}
-    {% if session contains "20210608" %}
-        {% assign sessionright = true %}
-    {% endif %}
+    {% if session contains "20210608" %}{% assign sessionright = true %}{% endif %}
+    {% if session contains "activebreak" %}{% assign sessionright = false %}{% endif %}
   {% endfor %}
     {% if sessionright %}
       {% assign side = forloop.index0 | modulo: 2 %}
