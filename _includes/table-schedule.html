@@ -21,6 +21,7 @@
       {% endfor %}
       {% endcapture %}
       {% capture eventtitle %}
+      {% if event.name == "Lightning talks" %}Selection of 3-minutes presentations by participants{% endif %}
       {% for speaker in speakers %}
       {% if event.session contains "panel" %}Present and future of consciousness research: an interdisciplinary discussion{% break %}{% endif %}
         {% if speaker.abstract %}
@@ -43,11 +44,13 @@
           {% endunless %}
           <td>{{ speakersnames }}</td>
           <td>{{ eventtitle }}</td>
-          {% if event.youtube %}
-          <td><a href="{{ event.platform | split: "+" | last }}">{{ event.platform | split: "+" | first }}</a> & <a href="{{ event.youtube }}">YouTube</a></td>
-          {% else %}
-            <td><a href="{{ event.platform | split: "+" | last }}">{{ event.platform | split: "+" | first }}</a></td>
-          {% endif %}
+          {% capture platforms %}
+            {% for platform in event.platforms %}
+              <a href="{{ platform | split: "+" | last }}">{{ platform | split: "+" | first }}</a>
+              {% if forloop.last == false %} & {% endif %}
+            {% endfor %}
+          {% endcapture %}
+          <td>{{ platforms }}</td>
         </tr>
     {% endfor %}
   </tbody>
