@@ -21,6 +21,7 @@
       {% endfor %}
       {% endcapture %}
       {% capture eventtitle %}
+      {% if event.name == "Lightning talks" %}Selection of 3-minutes presentations by participants{% endif %}
       {% for speaker in speakers %}
       {% if event.session contains "panel" %}Present and future of consciousness research: an interdisciplinary discussion{% break %}{% endif %}
         {% if speaker.abstract %}
