@@ -41,7 +41,7 @@ permalink: /speakers
     {% endif %}
 {% endfor %}
 
-# Active Breaks Leaders
+# Active breaks leader
 {% assign people = site.data.speakers | sample: site.data.speakers.size %}
 {% for person in people %}
   {% if person.fullname == "TBA" %}{% continue %}{% endif %}
