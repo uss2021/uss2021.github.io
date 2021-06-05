@@ -3,110 +3,110 @@
   time_start: "13:00"
   time_end: "13:15"
   platforms: 
-    - crowdcast: https://www.crowdcast.io/e/2u50rd1n/1
-    - youtube: https://youtu.be/g_5-h7QPSkg
+    - Crowdcast+https://www.crowdcast.io/e/2u50rd1n/1
+    - YouTube+https://youtu.be/g_5-h7QPSkg
 - name: Keynote talk
   date: 20210607
   time_start: "13:15"
   time_end: "14:15"
   platforms: 
-    - crowdcast: https://www.crowdcast.io/e/2u50rd1n/2
-    - youtube: https://youtu.be/DBPuwN_Hdic
+    - Crowdcast+https://www.crowdcast.io/e/2u50rd1n/2
+    - YouTube+https://youtu.be/DBPuwN_Hdic
 - name: Lightning talks
   date: 20210607
   time_start: "14:20"
   time_end: "14:50"
   platforms: 
-    - crowdcast: https://www.crowdcast.io/e/2u50rd1n/3
-    - youtube: https://youtu.be/NZuI3IzxNu8
+    - Crowdcast+https://www.crowdcast.io/e/2u50rd1n/3
+    - YouTube+https://youtu.be/NZuI3IzxNu8
 - name: Lightning talks Q&A + Social
   date: 20210607
   time_start: "14:50"
   time_end: "15:10"
   platforms: 
-    - gathertown: https://gather.town/i/e7LPsVjS
+    - Gather.town+https://gather.town/i/e7LPsVjS
 - name: Active break
   date: 20210607
   time_start: "15:05"
   time_end: "15:10"
   session: activebreak
-  platform: Gather.town+https://gather.town/i/e7LPsVjS
+  platforms: 
+    - Gather.town+https://gather.town/i/e7LPsVjS
+    - Crowdcast+https://www.crowdcast.io/e/2u50rd1n/4
 - name: Go to Crowdcast
   date: 20210607
   time_start: "15:10"
   time_end: "15:15"
   session: break
-  platforms: 
-    - crowdcast: https://www.crowdcast.io/e/2u50rd1n/4
 - name: Keynote talk
   date: 20210607
   time_start: "15:15"
   time_end: "16:15"
   platforms: 
-    - crowdcast: https://www.crowdcast.io/e/2u50rd1n/5
-    - youtube: https://youtu.be/jLsAnQN69mQ
+    - Crowdcast+https://www.crowdcast.io/e/2u50rd1n/5
+    - YouTube+https://youtu.be/jLsAnQN69mQ
 - name: Social break
   date: 20210607
   time_start: "16:15"
   time_end: "16:25"
   platforms: 
-    - gathertown: https://gather.town/i/e7LPsVjS
+    - Gather.town+https://gather.town/i/e7LPsVjS
   session: socialbreak
 - name: Active break
   date: 20210607
   time_start: "16:20"
   time_end: "16:25"
   session: activebreak
-  platform: Gather.town+https://gather.town/i/e7LPsVjS
+  platforms: 
+    - Gather.town+https://gather.town/i/e7LPsVjS
+    - Crowdcast+https://www.crowdcast.io/e/2u50rd1n/6
 - name: Go to Crowdcast
   date: 20210607
   time_start: "16:25"
   time_end: "16:30"
   session: break
-  platforms: 
-    - crowdcast: https://www.crowdcast.io/e/2u50rd1n/6
 - name: Panel discussion
   date: 20210607
   time_start: "16:30"
   time_end: "17:15"
   session: panel
   platforms: 
-    - crowdcast: https://www.crowdcast.io/e/2u50rd1n
-    - youtube: https://youtu.be/FIsNN2Fc1vc
+    - Crowdcast+https://www.crowdcast.io/e/2u50rd1n
+    - YouTube+https://youtu.be/FIsNN2Fc1vc
 - name: Closing remarks
   date: 20210607
   time_start: "17:15"
   time_end: "17:30"
   platforms: 
-    - crowdcast: https://www.crowdcast.io/e/2u50rd1n
-    - youtube: https://youtu.be/pkMXuO_tChY
+    - Crowdcast+https://www.crowdcast.io/e/2u50rd1n
+    - YouTube+https://youtu.be/pkMXuO_tChY
 
 - name: Opening remarks
   date: 20210608
   time_start: "13:00"
   time_end: "13:15"
   platforms: 
-    - gathertown: https://gather.town/i/e7LPsVjS
+    - Gather.town+https://gather.town/i/e7LPsVjS
 - name: Round table
   date: 20210608
   time_start: "13:15"
   time_end: "14:00"
   session: roundtable
   platforms: 
-    - zooma: https://us02web.zoom.us/j/82032866297
+    - Zoom A+https://us02web.zoom.us/j/82032866297
 - name: Focused discussion
   date: 20210608
   time_start: "13:15"
   time_end: "14:00"
   session: discussion
   platforms: 
-    - zoomb: https://us02web.zoom.us/j/88008045355
+    - Zoom B+https://us02web.zoom.us/j/88008045355
 - name: Social break
   date: 20210608
   time_start: "14:00"
   time_end: "14:15"
   platforms: 
-    - gathertown: https://gather.town/i/e7LPsVjS
+    - Gather.town+https://gather.town/i/e7LPsVjS
   session: socialbreak
 - name: Workshop
   date: 20210608
@@ -114,20 +114,20 @@
   time_end: "15:00"
   session: workshop
   platforms: 
-    - zooma: https://us02web.zoom.us/j/82032866297
+    - Zoom A+https://us02web.zoom.us/j/82032866297
 - name: Focused discussion
   date: 20210608
   time_start: "14:15"
   time_end: "15:00"
   session: discussion
   platforms: 
-    - zoomb: https://us02web.zoom.us/j/88008045355
+    - Zoom B+https://us02web.zoom.us/j/88008045355
 - name: Social break
   date: 20210608
   time_start: "15:00"
   time_end: "15:10"
   platforms: 
-    - gathertown: https://gather.town/i/e7LPsVjS
+    - Gather.town+https://gather.town/i/e7LPsVjS
   session: socialbreak
 - name: Active break
   date: 20210608
@@ -135,30 +135,30 @@
   time_end: "15:15"
   session: activebreak
   platforms: 
-    - gathertown: https://gather.town/i/e7LPsVjS
+    - Gather.town+https://gather.town/i/e7LPsVjS
 - name: Workshop
   date: 20210608
   time_start: "15:15"
   time_end: "16:00"
   session: workshop
   platforms: 
-    - zooma: https://us02web.zoom.us/j/82032866297
+    - Zoom A+https://us02web.zoom.us/j/82032866297
 - name: Focused discussion
   date: 20210608
   time_start: "15:15"
   time_end: "16:00"
   session: discussion
   platforms: 
-    - zoomb: https://us02web.zoom.us/j/88008045355
+    - Zoom B+https://us02web.zoom.us/j/88008045355
 - name: Closing remarks
   date: 20210608
   time_start: "16:00"
   time_end: "16:15"
   platforms: 
-    - gathertown: https://gather.town/i/e7LPsVjS
+    - Gather.town+https://gather.town/i/e7LPsVjS
 - name: Social + Talent Show
   date: 20210608
   time_start: "16:15"
   time_end: "16:45"
   platforms: 
-    - gathertown: https://gather.town/i/e7LPsVjS
+    - Gather.town+https://gather.town/i/e7LPsVjS
