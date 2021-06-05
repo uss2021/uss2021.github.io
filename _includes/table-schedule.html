@@ -36,7 +36,7 @@
       {% endcapture %}
         <tr>
           <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=UNIQUE+Student+Symposium&iso={{ event.date }}T{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}00&p1=165">{{ event.time_start }}</a> - {{ event.time_end }}</td>
-          {% unless event.name contains "break" %}
+          {% unless event.session contains "break" %}
 						<td><strong>{{ event.name }}</strong></td>
             {% else %}
 						<td>{{ event.name }}</td>
