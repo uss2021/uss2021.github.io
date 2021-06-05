@@ -43,11 +43,27 @@
           {% endunless %}
           <td>{{ speakersnames }}</td>
           <td>{{ eventtitle }}</td>
-          {% if event.youtube %}
-          <td><a href="{{ event.platform | split: "+" | last }}">{{ event.platform | split: "+" | first }}</a> & <a href="{{ event.youtube }}">YouTube</a></td>
-          {% else %}
-            <td><a href="{{ event.platform | split: "+" | last }}">{{ event.platform | split: "+" | first }}</a></td>
-          {% endif %}
+          {% capture platforms %}
+          {% for platform in event.platforms %}
+            {% capture platformname %}
+              {% case platform %}
+                {% when "crowdcast" %}
+                  Crowdcast
+                {% when "youtube" %}
+                  YouTube
+                {% when "zooma" %}
+                  Zoom A
+                {% when "zoomb" %}
+                  Zoom B
+                {% when "gathertown" %}
+                  Gather.town
+              {% endcase %}
+            {% endcapture %}
+            <a href="{{ platform }}">{{ platform }}</a>
+            {% if forloop.last == false %} & {% endif %}
+          {% endfor %}
+          {% endcapture %}
+          <td>{{ platforms }}</td>
         </tr>
     {% endfor %}
   </tbody>
