@@ -4,6 +4,10 @@ title: USS 2021 - Virtual
 subtitle: Unifying Neuroscience and Artificial Intelligence in Quebec (UNIQUE) - Student Symposium
 toc: true
 ---
+<div class="box">
+  If you registered as a participant for USS 2021, but <strong>you have not received an email with practical information</strong>, please check your spam email folder and send us an email otherwise: <code>{{ site.email }}</code>.
+</div>
+
 # UNIQUE Student Symposium (USS)
 USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. This year USS will be held **online**, on June 7th and 8th, 2021.
 
