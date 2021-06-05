@@ -125,15 +125,21 @@
 - name: Social break
   date: 20210608
   time_start: "15:00"
-  time_end: "15:10"
+  time_end: "15:05"
   platforms: 
     - Gather.town+https://gather.town/i/e7LPsVjS
   session: socialbreak
 - name: Active break
   date: 20210608
+  time_start: "15:05"
+  time_end: "15:10"
+  session: activebreak
+  platforms: 
+    - Gather.town+https://gather.town/i/e7LPsVjS
+- name: Go to the next session
+  date: 20210608
   time_start: "15:10"
   time_end: "15:15"
-  session: activebreak
   platforms: 
     - Gather.town+https://gather.town/i/e7LPsVjS
 - name: Workshop
