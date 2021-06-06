@@ -140,6 +140,7 @@
   date: 20210608
   time_start: "15:10"
   time_end: "15:15"
+  session: break
   platforms: 
     - Gather.town+https://gather.town/i/e7LPsVjS
 - name: Workshop
