@@ -9,14 +9,18 @@
   position: Assistant Professor
   photo: megan_peters.jpg
   alttext: Megan Peters
-  twitter: https://twitter.com/meganakpeters
-  website: https://faculty.sites.uci.edu/cnclab/
-  paper: https://psyarxiv.com/bqfr6/
   title: Linking metacognition and consciousness with computational models
   abstract: Few people tackle the neural or computational basis of qualitative experience (Frith, 2019). Why? One major reason is that science and philosophy have both struggled to propose how we might even begin to start studying it. Here I propose that metacognitive computations, and the subjective feelings that go along with them, give us a solid starting point. Specifically, perceptual metacognition possesses unique properties that provide a powerful and unique opportunity for studying the neural and computational correlates of subjective experience. I will describe these properties, and discuss how computational models of metacognition can be used to an empirically-tractable early step in identifying the generative process that constructs qualitative experience, drawing on empirical data. By applying decades of developments in computational cognitive science and formal computational model comparisons to the specific properties of perceptual metacognition, we may reveal new and exciting insights about how the brain constructs subjective conscious experiences and the nature of those experiences themselves.
   sessions: 
   - "202106071515"
   - "202106071630panel"
+  tags:
+    - name: Relevant paper
+      link: https://psyarxiv.com/bqfr6/
+    - name: Website
+      link: https://faculty.sites.uci.edu/cnclab/
+    - name: Twitter
+      link: https://twitter.com/meganakpeters
 - fullname: Pim Haselager
   affiliations: 
   - Donders Institute for Brain, Cognition and Behaviour
@@ -28,12 +32,16 @@
   alttext: W.F.G. Haselager (Pim)
   title: "Unifying AI & Neuroscience: A great idea! But to what purpose?"
   abstract: "The combination of Artificial Intelligence (AI) and Neuroscience (NS) has great promise. It can lead to various practical applications in a wide variety of fields, ranging from micro-targeted marketing to clinical therapy and law. At the same time, the combined power of AI and NS leads to serious questions about what it is that we would like to achieve and why. It also leads to questions about how we can exert meaningful human control over the ensuing technologies. This is especially urgent given the many challenges humanity is facing this century, from inequity to ecology. It seems fair to say that our current ways to address these challenges have not been, to put it mildly, particularly successful. AI and NS enable us to see our human strengths and weaknesses with greater clarity, and build more effective technology accordingly. But the potentially exploitative power of this combination of sciences does present us with the challenge to apply it wisely. I will suggest that we are in need of a more profound reflection on what our sciences show us about ourselves, what our technology enables us to do with that, and what, apparently, we aim to do with those insights and applications."
-  twitter: https://twitter.com/Pim_Haselager
-  website: http://www.socsci.ru.nl/haselag/index.html
-  paper: https://www.tandfonline.com/doi/full/10.1080/21507740.2020.1740353
   sessions: 
   - "202106071315"
   - "202106071630panel"
+  tags:
+    - name: Relevant paper
+      link: https://www.tandfonline.com/doi/full/10.1080/21507740.2020.1740353
+    - name: Website
+      link: http://www.socsci.ru.nl/haselag/index.html
+    - name: Twitter
+      link: https://twitter.com/Pim_Haselager
 - fullname: Stefanie Blain-Moraes
   affiliations: 
   - McGill University, School of Physical & Occupational Therapy
@@ -41,10 +49,12 @@
   position: Assistant Professor
   photo: stefanie_blain-moraes.jpg
   alttext: Stefanie Blain-Moraes
-  website: https://www.mcgill.ca/spot/stefanie-blain-moraes
   title: Panel Discussion
   sessions: 
   - "202106071630panel"
+  tags:
+    - name: Website
+      link: https://www.mcgill.ca/spot/stefanie-blain-moraes
 - fullname: Irina Rish
   affiliations: 
   - Université de Montréal
@@ -54,11 +64,14 @@
   position: Associate Professor
   photo: irina_rish.jpg
   alttext: Irina Rish
-  twitter: https://twitter.com/irinarish
-  website: https://sites.google.com/site/irinarish/
   title: Panel Discussion
   sessions: 
   - "202106071630panel"
+  tags:
+    - name: Website
+      link: https://sites.google.com/site/irinarish/
+    - name: Twitter
+      link: https://twitter.com/irinarish
 - fullname: Guillaume Lajoie
   affiliations: 
   - Dept. de Mathématiques et Statistiques, Université de Montréal
@@ -68,10 +81,13 @@
   photo: guillaume_lajoie.jpg
   alttext: Guillaume Lajoie
   title: Machine learning and Neuroscience
-  twitter: https://twitter.com/g_lajoie_
-  website: https://www.guillaumelajoie.com/
   sessions: 
   - "202106081315discussion"
+  tags:
+    - name: Website
+      link: https://www.guillaumelajoie.com/
+    - name: Twitter
+      link: https://twitter.com/g_lajoie_
 - fullname: Paul Cisek
   nametitle: Ph.D.
   affiliations: 
@@ -80,9 +96,11 @@
   photo: paul_cisek.jpg
   alttext: Paul Cisek
   title: Decision Making
-  website: http://www.cisek.org/pavel/
   sessions: 
   - "202106081515discussion"
+  tags: 
+    - name: Website
+      link: http://www.cisek.org/pavel/
 - fullname: Thomas R. Shultz
   nametitle: Ph.D.
   position: Professor
@@ -90,10 +108,12 @@
   - Department of Psychology, McGill University
   photo: thomas_shultz.jpg
   alttext: Thomas Shultz
-  website: https://www.tomshultz.net/
   title: Memory and Learning
   sessions: 
   - "202106081415discussion"
+  tags:
+    - name: Website
+      link: https://www.tomshultz.net/
 - fullname: Robin Renault
   position: Doctoral student
   affiliations: 
@@ -135,6 +155,9 @@
   abstract: "This workshop aims to introduce the broad concept that is open science from a global perspective. We will touch on three core aspects that open science is based on, namely processes (e.g., collaboration, reproducibility), Products (e.g., Open Data, Open Materials), and Values (e.g., freedom, equity). We will then showcase some tools and state-of-the-art examples of openness from the Neuro-AI field. If time permits, we will end the workshop by collaboratively (yes, all of us!) creating a Neuro-AI open science student guide."
   sessions: 
   - "202106081415workshop"
+  tags: 
+    - name: Open Science UMontréal
+      link: https://osumontreal.ca/
 - fullname: Andréanne Proulx
   position: Master student
   affiliations: 
@@ -146,6 +169,9 @@
   abstract: "This workshop aims to introduce the broad concept that is open science from a global perspective. We will touch on three core aspects that open science is based on, namely processes (e.g., collaboration, reproducibility), Products (e.g., Open Data, Open Materials), and Values (e.g., freedom, equity). We will then showcase some tools and state-of-the-art examples of openness from the Neuro-AI field. If time permits, we will end the workshop by collaboratively (yes, all of us!) creating a Neuro-AI open science student guide."
   sessions: 
   - "202106081415workshop"
+  tags: 
+    - name: Open Science UMontréal
+      link: https://osumontreal.ca/
 - fullname: Madeleine Elise Nadler
   alttext: Madeleine Elise Nadler
   pronouns: "she/her"
@@ -168,6 +194,9 @@
   photo: caelan_taylor.jpg
   bio: "Caelan is a student at Concordia with the hopes of becoming an Athletic Therapist one day. He loves to share his passion of health and wellness with others through physical activity and manual therapy where he does his best to get people to feel and perform at their best."
   position: Student at Concordia, Personal trainer, and massage therapist
-  website: https://www.facebook.com/TaylorTrainer20
-  instagram: https://www.instagram.com/TaylorTrainer20/
+  tags:
+    - name: Facebook
+      link: https://www.facebook.com/TaylorTrainer20
+    - name: Instagram
+      link: https://www.instagram.com/TaylorTrainer20/
 
