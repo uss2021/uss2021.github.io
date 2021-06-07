@@ -52,18 +52,9 @@
             {% endif %}
           {% endfor %}
           <br>
-          {% if person.paper %}
-            <a class="tag" href="{{ person.paper }}">Relevant paper</a>
-          {% endif %}
-          {% if person.website %}
-            <a class="tag" href="{{ person.website }}">Website</a>
-          {% endif %}
-          {% if person.twitter %}
-            <a class="tag" href="{{ person.twitter }}">Twitter</a>
-          {% endif %}
-          {% if person.instagram %}
-            <a class="tag" href="{{ person.instagram }}">Instagram</a>
-          {% endif %}
+          {% for tag in person.tags %}
+            <a class="tag" href="{{ tag.link }}">{{ tag.name }}</a>
+          {% endfor %}
         </div>
       </div>
     </div>
