@@ -81,6 +81,7 @@
   photo: guillaume_lajoie.jpg
   alttext: Guillaume Lajoie
   title: Machine learning and Neuroscience
+  abstract: "A panel discussion with Dr. Pouya Bashinvan, Dr. Irina Rish and Dr. Danilo Bzdok about (1) deep network models of neural circuits (2) ML for large data analysis and (3) ANN to explore neuroscience ideas unattainable by experiments."
   sessions: 
   - "202106081315discussion"
   tags:
