@@ -23,15 +23,23 @@
       {% capture eventtitle %}
       {% if event.name == "Lightning talks" %}Selection of 3-minutes presentations by participants{% endif %}
       {% for speaker in speakers %}
-      {% if event.session contains "panel" %}Present and future of consciousness research: an interdisciplinary discussion{% break %}{% endif %}
-        {% if speaker.abstract %}
-        <details>
-          <summary>{{ speaker.title }}</summary>
-          {{ speaker.abstract }}
-        </details>
-        {% else %}
-          {{ speaker.title }}
-        {% endif %}
+        {% capture slides %}
+          {% for tag in speaker.tags %}
+            {% if tag.name == "Slides" %}
+              [<a href="{{ tag.link }}">Slides</a>]
+              {% break %}
+            {% endif %}
+          {% endfor %}
+        {% endcapture %}
+        {% if event.session contains "panel" %}Present and future of consciousness research: an interdisciplinary discussion{% break %}{% endif %}
+          {% if speaker.abstract %}
+          <details>
+            <summary>{{ speaker.title }} {{ slides }}</summary>
+            {{ speaker.abstract }}
+          </details>
+          {% else %}
+            {{ speaker.title }} {{ slides }}
+          {% endif %}
         {% break %}
       {% endfor %}
       {% endcapture %}
