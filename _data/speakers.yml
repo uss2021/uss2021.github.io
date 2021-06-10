@@ -188,6 +188,9 @@
   abstract: "This workshop is designed for new students as well as those with no background in Equity, Diversity, and Inclusion (EDI). The workshop aims to help develop awareness of EDI concepts and issues in Academia. Participants will be introduced to basics of EDI in both theory and reality with relation to data-driven research as well as current events."
   sessions: 
   - "202106081515workshop"
+  tags: 
+    - name: Slides
+      link: assets/pdf/madeleine_elise_nadler.pdf
 - fullname: Caelan Taylor
   alttext: Caelan Taylor
   sessions: 
