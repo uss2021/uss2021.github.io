@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: USS 2021
-tagline: UNIQUE Student Symposium 2021
-email: unique.student.symposium@gmail.com
-twitter_username: ai_unique
-github_username: uss2021
+title: AI Helps Ukraine
+tagline: AI Helps Ukraine Charity Conference
+email: ai.helps.ukraine@mila.quebec
+twitter_username: alhelpsukraine
+github_username: aihelpsukraine
 twitter:
-  - username: ai_unique
-description: USS (UNIQUE Student Symposium) is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. The goal is to provide graduate students in those fields with an event tailor made to their needs and presenting the state of the art of what is done in neuro-AI research.
-author: UNIQUE Student Symposium 2021
+  - username: alhelpsukraine
+description: A student-run charity conference on AI for good to raise funds for medical equipment to help Ukraine
+author: AI Helps Ukraine
 baseurl: ""
 url: ""
 logo: assets/img/unique-logo-white-favicon.png
