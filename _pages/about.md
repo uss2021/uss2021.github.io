@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: UNIQUE and USS
+subtitle: AI Helps Ukraine
 permalink: /about
 ---
 ### Territorial acknowledgement
