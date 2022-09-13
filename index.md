@@ -1,7 +1,7 @@
 ---
 layout: page
-title: USS 2021 - Virtual
-subtitle: Unifying Neuroscience and Artificial Intelligence in Quebec (UNIQUE) - Student Symposium
+title: AI Helps Ukraine - Charity Conferene
+subtitle: A student-run charity conference on AI for good to raise funds for medical equipment to help Ukraine
 toc: true
 ---
 <div class="box">
