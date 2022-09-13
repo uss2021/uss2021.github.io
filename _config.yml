@@ -48,7 +48,7 @@ defaults:
       type: "pages"
     values:
       layout: page
-      hero_image: ./assets/img/network-372248-grad.png
+      hero_image: ./assets/img/bg-sunflowers-005bbbc4-crop.png
 
 # defaults:
 #   - scope:
