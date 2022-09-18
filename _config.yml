@@ -24,8 +24,8 @@ description: A student-run charity conference on AI for good to raise funds for 
 author: AI Helps Ukraine
 baseurl: ""
 url: ""
-logo: assets/img/unique-logo-white-favicon.png
-favicon: assets/img/unique-logo-white-favicon.png
+logo: assets/img/logo-mini.png
+favicon: assets/img/logo-mini.png
 
 # Reading Files
 include:
