@@ -6,6 +6,8 @@ show_sidebar: false
 # hero_height: is-small
 permalink: /schedule
 ---
+Stay tuned for the upcoming details of the program! We are working on a outstanding and diverse program on AI for Good research!
+
 The times are Eastern Daylight Time (Quebec local time, UTC-4). Click on the times to check your local time.
 
 ## Virtual series
