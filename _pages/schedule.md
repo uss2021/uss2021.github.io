@@ -16,5 +16,5 @@ The times are Eastern Daylight Time (Quebec local time, UTC-4). Click on the tim
 
 ## In-person conference
 
-{% include table-schedule.html date="202212DD" people="Mentor(s)" %}
+{% include table-schedule.html date="20221208" people="Speaker(s)" %}
 
