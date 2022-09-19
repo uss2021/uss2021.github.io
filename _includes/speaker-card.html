@@ -42,10 +42,10 @@
             {% else %}
             {% capture talk %}
               {% assign date = session | slice: 0, 8 %}
-              {% if date == "20210607" %}
-                <a href="schedule"><em>Monday, June 7th, {{ session | slice: 8, 2 }}:{{ session | slice: 10, 2 }} (EDT)</em></a>
-              {% elsif date == "20210608" %}
-                <a href="schedule"><em>Tuesday, June 8th, {{ session | slice: 8, 2 }}:{{ session | slice: 10, 2 }} (EDT)</em></a>
+              {% if date == "202211DD" %}
+                <a href="schedule"><em>Online talk in November, {{ session | slice: 8, 2 }}:{{ session | slice: 10, 2 }} (EDT) - TBA</em></a>
+              {% elsif date == "20221208" %}
+                <a href="schedule"><em>Thursday, December 8th, {{ session | slice: 8, 2 }}:{{ session | slice: 10, 2 }} (EDT) - TBA</em></a>
               {% endif %}
             {% endcapture %}
             <p class="subtitle is-6">{{ talk }}</p>
