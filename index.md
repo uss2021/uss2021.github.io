@@ -18,14 +18,11 @@ Starting in November, stay tuned!
 
 ### Virtual conference
 
-- November 2022: A series of online talks by [renowned scientists](./speakers) in the area of AI for good.
+November 2022: A series of online talks by [renowned scientists](./speakers) in the area of AI for good.
 
 ### Conference at Mila in Montreal
 
-- December 8th 2022: A full-day in-person conference on AI for good at [Mila Quebec AI Institute](https://mila.quebec/) in Montreal.
-
-- Online talk series [Internal Link to schedule]
-- In-person event at [Mila Quebec AI Institute](https://mila.quebec/) on 8th of December [Internal Link to further information]
+December 8th 2022: A full-day in-person conference on AI for good at [Mila Quebec AI Institute](https://mila.quebec/) in Montreal.
 
 ## Why
 
