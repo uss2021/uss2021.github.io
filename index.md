@@ -26,7 +26,7 @@ December 8th 2022: A full-day in-person conference on AI for good at [Mila Quebe
 
 # Why
 
-One of the sorrowful aftermaths of the war that broke out in Ukraine in early 2022 is the scarcity of drug supplies for cancer patients in the country. After knowing that a friend of us had to leave the country due to difficulty to obtain cancer treatment, we contacted the National Institute of Research for Cancer of Ukraine, which sent us a list of needed supplies and, greatly aware of the dire situation, we decided to organize an event to raise funds to help cover some of the needed drugs.
+One of the sorrowful aftermaths of the war that broke out in Ukraine in early 2022 is the scarcity of drug supplies for cancer patients in the country. After knowing that a friend of us had to leave the country due to difficulty to obtain cancer treatment,  we decided to organize an event to raise funds to help cover some of the needed drugs. We contacted the National Institute of Research for Cancer of Ukraine, which sent us a list of needed supplies and, greatly aware of the dire situation.
 
 As AI researchers, we believe that collective efforts of our broad international community can make a real difference for those who are in need and save lives. Therefore, we are bringing together brilliant and committed AI experts, an empathetic audience and responsible companies to collectivelly support oncological patients in Ukraine.
 
@@ -38,7 +38,7 @@ The [National Institute of Research for Cancer of Ukraine](https://www.uicc.org/
 
 ### How will we send drugs and equipment?
 
-We have created a partnership with [UAMS](https://uams.ca/), an NGO based in Toronto that will support us during the logistics and shipment process. They have a great experience in this fields, since they have been shipping different kind of products to Ukraine for a long time. We have access to a warehouse in Canada and in Ukraine, and we are in contact with small organizations inside Ukraine to pick up the material and do the shipments.
+We have created a partnership with Ukraine Medical Support([UAMS](https://uams.ca/)), a Toronto-based NGO whose mission is to provide medical and psychological help to vunerable people in Ukraine. UAMS will support us during the logistics and shipment process. We have access to a warehouse in Canada and in Ukraine, and we are in contact with small organizations inside Ukraine to pick up the material and do the shipments.
 
 ### How can you get involved?
 
