@@ -17,6 +17,7 @@
   fullname: Oleksiy Ostapenko
   photo: oleksiy_ostapenko.png
   alttext: Oleksiy Ostapenko
+  pronouns: "he/\xE9l/er/він"
   twitter: https://twitter.com/ostap__alex
   website: https://www.linkedin.com/in/oleksiy-ostapenko/
 - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
@@ -29,7 +30,7 @@
   alttext: Alexandra is...
   twitter: https://twitter.com/@alex_volokhova
   website: alexandravolokhova.github.io
- - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
+- affiliation: "Mila, Universit\xE9 de Montr\xE9al"
   bio: I am a third-year Ph.D. student at Mila working on environmental applications of AI. My current research focuses on biodiversity monitoring using remote sensing and citizen science data.
   committee: General Committee
   email: tengmeli@mila.quebec
@@ -38,3 +39,11 @@
   pronouns: "she/elle"
   twitter: https://twitter.com/melisandeteng
   website: melisandeteng.github.io
+- affiliation: ""
+  bio: Graduated in Law and Journalism. I am interested in international politics, cooperation and social field. Currently working in the philanthropic field in Montréal.
+  committee: General Committee
+  email: martapp.94@gmail.com
+  fullname: Marta Pereira de la Infanta
+  photo: marta_pereira.png
+  pronouns: "she/ella/вона"
+  alttext: Marta is...
