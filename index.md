@@ -54,7 +54,7 @@ We encourage tech and pharma companies, as well as individuals, to donate whatev
 ---
 We are a group of early-career AI researchers, very aware of the situation in Ukraine. Unfortunately, we know first hand the difficulties to access cancer treatment in the country, and we want to do our bit by organizing this charity conference. You can read more about us in the [Team](./team) page. You are very welcome to [get in touch!](#contact).
 
-# Out partners
+## Our partners
 ---
 {% include partner-logo.html %}
 
