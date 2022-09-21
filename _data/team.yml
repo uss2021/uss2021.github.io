@@ -21,20 +21,29 @@
   twitter: https://twitter.com/ostap__alex
   website: https://www.linkedin.com/in/oleksiy-ostapenko/
 - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
-  bio: PhD at Mila
+  bio: I am a second-year Ph.D. student at Mila. My research interests are evolving and currently they include generative models, drug discovery, material design, bayesian methods, causality.
   committee: General Committee
   email: alexandra.volokhova@mila.quebec
   fullname: Alexandra Volokhova
   photo: alexandra_volokhova.jpg
-  pronouns: "she"
+  pronouns: "she/elle"
   alttext: Alexandra is...
   twitter: https://twitter.com/@alex_volokhova
   website: alexandravolokhova.github.io
-- affiliation: 
+- affiliation: "Mila, Universit\xE9 de Montr\xE9al"
+  bio: I am a third-year Ph.D. student at Mila working on environmental applications of AI. My current research focuses on biodiversity monitoring using remote sensing and citizen science data.
+  committee: General Committee
+  email: tengmeli@mila.quebec
+  fullname: Mélisande Teng
+  photo: melisande_teng.jpg
+  pronouns: "she/elle"
+  twitter: https://twitter.com/melisandeteng
+  website: melisandeteng.github.io
+- affiliation: ""
   bio: Graduated in Law and Journalism. I am interested in international politics, cooperation and social field. Currently working in the philanthropic field in Montréal.
   committee: General Committee
   email: martapp.94@gmail.com
   fullname: Marta Pereira de la Infanta
-  photo: marta_pereira.png
+  photo: marta_pereira-de-la-infanta.jpg
   pronouns: "she/ella/вона"
   alttext: Marta is...
