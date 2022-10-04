@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
-subtitle: 
-layout: page
+subtitle:
+layout: page-floatbutton
 permalink: /coc
 ---
 <div class="box">

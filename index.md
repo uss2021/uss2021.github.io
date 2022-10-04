@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-floatbutton
 title: AI Helps Ukraine - Charity Conference
 subtitle: A student-run charity conference on AI for Good to raise funds for medical equipment to help Ukraine
 toc: false
@@ -43,7 +43,7 @@ We have created a partnership with Ukraine Medical Support([UAMS](https://uams.c
 
 ### How can you get involved?
 
-We are looking for the following donations: money, drugs and equipment. 
+We are looking for the following donations: money, drugs and equipment.
 
 To make it easier, we will soon post a list with different things needed in Ukraine, according to lists sent by the National Cancer Institute of Ukraine and other centers.
 

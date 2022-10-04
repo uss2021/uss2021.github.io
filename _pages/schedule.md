@@ -1,7 +1,7 @@
 ---
 title: Schedule
 subtitle: November & December 2022
-layout: page
+layout: page-floatbutton
 show_sidebar: false
 # hero_height: is-small
 permalink: /schedule
@@ -17,4 +17,3 @@ The times are Eastern Daylight Time (Quebec local time, UTC-4). Click on the tim
 ## In-person conference
 
 {% include table-schedule.html date="20221208" people="Speaker(s)" %}
-
