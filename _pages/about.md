@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About
-subtitle: AI Helps Ukraine
+subtitle: AI Helps Ukraine - Charity Conference
 permalink: /about
 ---
 
-AI Helps Ukraine is a charity conference organised for raising funds to support Ukrainian oncological hospitals and non-profit organisations. The ongoing war dramatically affects the accessibility to essential supplies and medicines for cancer treatment in Ukraine. As AI researchers, we believe that collective efforts of our broad international community can make a real difference for those who are in need and save lives. Therefore, we are bringing together brilliant artificial intelligence experts, an empathetic audience and responsible companies to attract attention and collect money for oncological patients in Ukraine.
+AI Helps Ukraine is a charity conference for raising funds to support Ukrainians facing the severe humanitarian crisis. We collect donations to purchase and deliver supplies for people living in destroyed areas and oncological patients in Ukraine. Our mission is run in collaboration with the Ukraine Medical Support (UAMS), a Canadian-based nonprofit organisation providing medical and humanitarian aid for Ukraine.
 
-Our mission is to bring the AI community together and get the money on the table needed for humanitarian aid in Ukraine. Sometimes tech and AI can help most effectively with financial means and material resources. In the case of providing access to cancer treatments, this means that we are looking for the following donations: Money, medicines, and equipment. Whatever medicine and equipment we cannot get directly will be bought with the donations.
+As AI researchers, we believe that collective efforts of our broad international community can make a real difference for those who are in need and save lives. Therefore, we are bringing together brilliant artificial intelligence experts, an empathetic audience and responsible companies to attract attention and collect money for vulnerable people in Ukraine.
 
 ---
 
