@@ -1,6 +1,6 @@
 ---
 title: Speakers
-layout: page
+layout: page-floatbutton
 permalink: /speakers
 ---
 {% assign people = site.data.speakers %}
@@ -18,4 +18,3 @@ permalink: /speakers
       {% endif %}
   {% endif %}
 {% endfor %}
-

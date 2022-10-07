@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-floatbutton
 title: Team
 permalink: /team
 ---
@@ -14,4 +14,3 @@ AI Helps Ukraine is organized by volunteer students and friends from [Mila](http
       {% include team-card.html %}
     {% endif %}
 {% endfor %}
-  

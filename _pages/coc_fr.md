@@ -1,7 +1,7 @@
 ---
 title: Code de conduite
-subtitle: 
-layout: page
+subtitle:
+layout: page-floatbutton
 permalink: /coc_fr
 ---
 <div class="box">

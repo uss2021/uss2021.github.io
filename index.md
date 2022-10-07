@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-floatbutton
 title: AI Helps Ukraine - Charity Conference
 subtitle: A charity conference on AI to raise funds for medical and humanitarian aid for Ukraine
 toc: false
@@ -15,7 +15,7 @@ Participation is free and everyone is welcome to donate according to their possi
 ---
 # Why
 ---
-Russian invasion of Ukraine has caused a grave humanitarian crisis destroying civilian infrastructure and forcing millions of people to leave their homes seeking safety and protection. According to [UNHCR](https://www.unhcr.org/ukraine-emergency.html), more than 7.2 million of Ukrainians had to flee from the war abroad and more than 6.9 million were displaced within the country since 24 February 2022. Many of them are still located close to the conflict zones and remain in need of food, hygiene, warm clothes and shelters. Together with infrastructure, medicine supply chains were broken and these days Ukrainian hospitals are lacking not only specialized medicines and machines but even essential basics, such as toilet paper and medical gloves. 
+Russian invasion of Ukraine has caused a grave humanitarian crisis destroying civilian infrastructure and forcing millions of people to leave their homes seeking safety and protection. According to [UNHCR](https://www.unhcr.org/ukraine-emergency.html), more than 7.2 million of Ukrainians had to flee from the war abroad and more than 6.9 million were displaced within the country since 24 February 2022. Many of them are still located close to the conflict zones and remain in need of food, hygiene, warm clothes and shelters. Together with infrastructure, medicine supply chains were broken and these days Ukrainian hospitals are lacking not only specialized medicines and machines but even essential basics, such as toilet paper and medical gloves.
 
 Some of our team members learned about this disastrous situation first hand, from their friends and families in Ukraine. As for AI researches and world citizens, it became unthinkable for us to continue doing our work without making every effort to help people in Ukraine. Therefore, we are organising a fundraising charity conference asking the broad international AI community to give a hand to those in dire need. We do believe that our collective efforts can make a real difference and save lives.
 
