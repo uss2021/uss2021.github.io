@@ -1,22 +1,20 @@
 ---
 title: Schedule
-subtitle: 7-8 June, 2021
+subtitle: November & December 2022
 layout: page
 show_sidebar: false
 # hero_height: is-small
 permalink: /schedule
 ---
+Stay tuned for the upcoming details of the program! We are working on a outstanding and diverse program on AI for Good research!
+
 The times are Eastern Daylight Time (Quebec local time, UTC-4). Click on the times to check your local time.
 
-## Monday, 7 June
+## Virtual series
 
-The main sessions of Day 1 will take place on [Crowdcast](https://www.crowdcast.io/e/2u50rd1n) and the social breaks on [Gather](https://gather.town/i/e7LPsVjS). Our Gather town will remain open throughout the whole symposium and you are welcome to join and interact with other attendees any time! If you have registered, you should have received the links and **password** of the event via email. The sessions on Crowdcast will be streamed through our [YouTube channel](https://www.youtube.com/channel/UCOoOsSZfudHl5vcUnCE3jrA) too. See the links of the individual session on the schedule.
+{% include table-schedule.html date="202211DD" people="Speaker(s)" %}
 
-{% include table-schedule.html date="20210607" people="Speaker(s)" %}
+## In-person conference
 
-## Tuesday, 8 June
-
-Day 2 consists of parallel sessions, that will take place on **two separate Zoom rooms**, [Zoom A](https://us02web.zoom.us/j/82032866297) and [Zoom B](https://us02web.zoom.us/j/88008045355). If you have registered, you should have received the links and **password** of the event via email. As on Day 1, social breaks will take place on [Gather](https://gather.town/i/e7LPsVjS). Our Gather town will remain open throughout the whole symposium and you are welcome to join and interact with other attendees any time!
-
-{% include table-schedule.html date="20210608" people="Mentor(s)" %}
+{% include table-schedule.html date="20221208" people="Speaker(s)" %}
 

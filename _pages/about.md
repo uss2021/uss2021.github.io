@@ -1,25 +1,16 @@
 ---
 layout: page
 title: About
-subtitle: UNIQUE and USS
+subtitle: AI Helps Ukraine
 permalink: /about
 ---
+
+AI Helps Ukraine is a charity conference organised for raising funds to support Ukrainian oncological hospitals and non-profit organisations. The ongoing war dramatically affects the accessibility to essential supplies and medicines for cancer treatment in Ukraine. As AI researchers, we believe that collective efforts of our broad international community can make a real difference for those who are in need and save lives. Therefore, we are bringing together brilliant artificial intelligence experts, an empathetic audience and responsible companies to attract attention and collect money for oncological patients in Ukraine.
+
+Our mission is to bring the AI community together and get the money on the table needed for humanitarian aid in Ukraine. Sometimes tech and AI can help most effectively with financial means and material resources. In the case of providing access to cancer treatments, this means that we are looking for the following donations: Money, medicines, and equipment. Whatever medicine and equipment we cannot get directly will be bought with the donations.
+
+---
+
 ### Territorial acknowledgement
 
 We, the organisers, acknowledge that the lands and waters where most of us live and where our universities are located---[Université de Montréal](https://www.umontreal.ca/en/indigenouspeoples/), [McGill University](https://www.mcgill.ca/circ/land-acknowledgement) and [Concordia University](https://www.concordia.ca/indigenous/resources/territorial-acknowledgement.html)---are the traditional and unceded territories of Indigenous peoples. The Kanien’kehá:ka (Mohawk) Nation call Tiohtiá:ke the site commonly known as Montréal. Since long before the arrival of European settlers, this territory has been and continues to be a gathering place for many Indigenous peoples. We respect the continued connections with the past, present and future in our ongoing relationships with Indigenous and other peoples within our communities. 
-
-### UNIQUE
-
-[UNIQUE (Unifying Neuroscience and Artificial Intelligence in Québec)](https://sites.google.com/view/unique-neuro-ai) is a research centre working at the intersection of neuroscience and artificial intelligence research. It consists of more than 80 researchers affiliated with several universities and research centres from different regions of the province, and even from outside of it. The main goal of UNIQUE is to promote and facilitate exchanges between research teams working at the intersection of artificial intelligence (AI) and neuroscience.
-
-### USS
-
-USS (UNIQUE Student Symposium) is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. The goal is to provide graduate students in those fields with an event tailor made to their needs and presenting the state of the art of what is done in neuro-AI research.
-
-### USS 2021
-
-Unfortunately, in the actual global circumstances, it is not possible to organize events for people to attend in person. However, this year's event will still take place, though in a virtual format. Both the keynote speakers and the workshop are going to be accessible through online platforms. Information and links will be provided following your registration.
-
-### Past Event
-
-The recordings of the past event, USS 2020, are available on [YouTube](https://www.youtube.com/channel/UCOoOsSZfudHl5vcUnCE3jrA/live).

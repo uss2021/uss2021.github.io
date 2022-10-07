@@ -3,7 +3,7 @@ layout: page
 title: Team
 permalink: /team
 ---
-USS is organized every year by volunteer students from [UNIQUE](https://sites.google.com/view/unique-neuro-ai/home). This is the organizing team of USS 2021, in random order.
+AI Helps Ukraine is organized by volunteer students and friends from [Mila](https://mila.quebec). We are deeply concerned by the impacts of the war in Ukraine on research institutes and medical treatments. Many students and researchers in Ukraine are affected by war and cannot continue their work - their loss is our loss as a global community. These are the organisers (in random order):
 
 {% assign people = site.data.team | sample: site.data.team.size %}
 {% for person in people %}
