@@ -9,7 +9,7 @@
   pronouns: "he/il/\xE9l"
   alttext: Alex has white skin, green eyes, a thick dark beard and dark long hair though with noticeable receding hairline.
   twitter: https://twitter.com/alexhdezgcia
-  website: alexhernandezgarcia.github.io
+  website: https://alexhernandezgarcia.github.io
 - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
   bio: I am a third-year Ph.D. student at Mila. My main research interest lies in developing systems that can accumulate and transfer knowledge throughout their lifetime.
   committee: General Committee
@@ -29,7 +29,7 @@
   pronouns: "she/elle"
   alttext: Alexandra is...
   twitter: https://twitter.com/@alex_volokhova
-  website: alexandravolokhova.github.io
+  website: https://alexandravolokhova.github.io
 - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
   bio: I am a third-year Ph.D. student at Mila working on environmental applications of AI. My current research focuses on biodiversity monitoring using remote sensing and citizen science data.
   committee: General Committee
@@ -38,7 +38,7 @@
   photo: melisande_teng.jpg
   pronouns: "she/elle"
   twitter: https://twitter.com/melisandeteng
-  website: melisandeteng.github.io
+  website: https://melisandeteng.github.io
 - affiliation: ""
   bio: Graduated in Law and Journalism. I am interested in international politics, cooperation and social field. Currently working in the philanthropic field in Montréal.
   committee: General Committee
@@ -47,6 +47,8 @@
   photo: marta_pereira-de-la-infanta.jpg
   pronouns: "she/ella/вона"
   alttext: Marta is...
+  website: none
+  twitter: none
 - affiliation: "Mila, McGill University"
   bio: I am second-year MSc student at Mila using machine learning for climate science. I especially like working with cryospheric data and climate models.
   committee: General Committee
@@ -55,4 +57,5 @@
   photo: julia_kaltenborn.jpg
   pronouns: "she/elle"
   alttext: Julia has white skin, blue eyes, long fair hair that looks slightly tousled in that pic.
-  website: liellnima.github.io
+  website: https://liellnima.github.io
+  twitter: none
