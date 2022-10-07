@@ -11,7 +11,7 @@
   twitter: https://twitter.com/alexhdezgcia
   website: alexhernandezgarcia.github.io
 - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
-  bio: I am a third-year Ph.D. student at Mila. My main research interest lies in developing systems that can accumulate and transfer knowledge throughout their lifetime. 
+  bio: I am a third-year Ph.D. student at Mila. My main research interest lies in developing systems that can accumulate and transfer knowledge throughout their lifetime.
   committee: General Committee
   email: ostapeno@mila.quebec
   fullname: Oleksiy Ostapenko
@@ -47,3 +47,12 @@
   photo: marta_pereira-de-la-infanta.jpg
   pronouns: "she/ella/вона"
   alttext: Marta is...
+- affiliation: "Mila, McGill University"
+  bio: I am second-year MSc student at Mila using machine learning for climate science. I especially like working with cryospheric data and climate models.
+  committee: General Committee
+  email: julia.kaltenborn@mila.quebec
+  fullname: Julia Kaltenborn
+  photo: julia_kaltenborn.jpg
+  pronouns: "she/elle"
+  alttext: Julia has white skin, blue eyes, long fair hair that looks slightly tousled in that pic.
+  website: liellnima.github.io
