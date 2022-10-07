@@ -1,12 +1,12 @@
+- name: About
+  link: /about.html
 - name: Speakers
   link: /speakers.html
 - name: Schedule
   link: /schedule.html
 - name: Team
   link: /team.html
-- name: About
-  link: /about.html
-- name: Code of Conduct
-  link: /coc.html
 - name: Donations
   link: /donate.html
+- name: Code of Conduct
+  link: /coc.html
