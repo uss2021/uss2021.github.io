@@ -1,58 +1,48 @@
 ---
 layout: page-floatbutton
 title: AI Helps Ukraine - Charity Conference
-subtitle: A student-run charity conference on AI for Good to raise funds for medical equipment to help Ukraine
+subtitle: A charity conference on AI to raise funds for medical and humanitarian aid for Ukraine
 toc: false
 ---
 # What
 ---
-AI Helps Ukraine is a charity conference about AI for Good to raise funds for cancer treatment for patients in Ukraine.
+AI Helps Ukraine is a charity conference for raising funds to support Ukrainians facing the severe humanitarian crisis. We bring together [the leading experts of AI](./speakers) to present recent advances in the field and attract attention of the AI community to those who are in urgent need.
 
-The conference consists of two parts: **weekly online lectures** and an **in-person full-day conference**.
+The conference consists of two parts: a series of online talks taking place online **in November 2022** and an in-person full-day conference happening on **December 8th 2022** at  [Mila Quebec AI Institute](https://mila.quebec/) in Montreal.
 
-Participation is free and everyone is welcome to donate according to their possibilities. **All** contributions will be donated for cancer treatment in Ukraine.
-
----
-# When
----
-Starting in November, stay tuned!
-### Virtual conference
-November 2022: A series of online talks by [renowned scientists](./speakers) in the area of AI for good.
-### Conference at Mila in Montreal
-December 8th 2022: A full-day in-person conference on AI for good at [Mila Quebec AI Institute](https://mila.quebec/) in Montreal.
+Participation is free and everyone is welcome to donate according to their possibilities. **All** contributions will be used to support Ukraine with medical and humanitarian aid.
 
 ---
 # Why
 ---
-One of the sorrowful aftermaths of the war that broke out in Ukraine in early 2022 is the scarcity of drug supplies for cancer patients in the country. After knowing that a friend of us had to leave the country due to difficulty to obtain cancer treatment, we contacted the National Institute of Research for Cancer of Ukraine, which sent us a list of needed supplies and, greatly aware of the dire situation, we decided to organize an event to raise funds to help cover some of the needed drugs.
-=======
+Russian invasion of Ukraine has caused a grave humanitarian crisis destroying civilian infrastructure and forcing millions of people to leave their homes seeking safety and protection. According to [UNHCR](https://www.unhcr.org/ukraine-emergency.html), more than 7.2 million of Ukrainians had to flee from the war abroad and more than 6.9 million were displaced within the country since 24 February 2022. Many of them are still located close to the conflict zones and remain in need of food, hygiene, warm clothes and shelters. Together with infrastructure, medicine supply chains were broken and these days Ukrainian hospitals are lacking not only specialized medicines and machines but even essential basics, such as toilet paper and medical gloves.
 
-
-As AI researchers, we believe that collective efforts of our broad international community can make a real difference for those who are in need and save lives. Therefore, we are bringing together brilliant and committed AI experts, an empathetic audience and responsible companies to collectivelly support oncological patients in Ukraine.
+Some of our team members learned about this disastrous situation first hand, from their friends and families in Ukraine. As for AI researches and world citizens, it became unthinkable for us to continue doing our work without making every effort to help people in Ukraine. Therefore, we are organising a fundraising charity conference asking the broad international AI community to give a hand to those in dire need. We do believe that our collective efforts can make a real difference and save lives.
 
 ---
 # How
 ---
-### How do we know which are cancer drugs and equipment needs in Ukraine?
+### How do we use donations?
 
-The [National Institute of Research for Cancer of Ukraine](https://www.uicc.org/membership/national-cancer-institute-kiev-ukraine) and other organizations that we know first hand and that have great needs in order to treat their cancer patients have sent us a list of the drugs needed in Ukraine.
+We are collecting donations to purchase and deliver medicines and supplies for people living in destroyed areas and oncological patients in Ukraine. Together with our partners, we buy and ship the most essential things directly to Ukraine.
 
-### How will we send drugs and equipment?
+### How do we know what is needed in Ukraine right now?
 
-We have created a partnership with Ukraine Medical Support([UAMS](https://uams.ca/)), a Toronto-based NGO whose mission is to provide medical and psychological help to vunerable people in Ukraine. UAMS will support us during the logistics and shipment process. We have access to a warehouse in Canada and in Ukraine, and we are in contact with small organizations inside Ukraine to pick up the material and do the shipments.
+We and our partners are in close contact with hospitals and charities in Ukraine, which provide first-hand information about the current vital necessities of people in the area. One of our major aid recipients is the National Cancer Institute of Ukraine, the largest hospital and research institute treating oncological patients in Ukraine.
+
+### How do we deliver supplies to Ukraine?
+
+Our main partner is [Ukraine Medical Support](https://uams.ca/about-us/), a Canadian-based non-profit organisation, which helps us with the logistics and shipment process. They have access to a warehouse in Canada and in Ukraine, and they are in contact with organizations inside Ukraine to pick up the material and do the shipments.
 
 ### How can you get involved?
 
-We are looking for the following donations: money, drugs and equipment.
-
-To make it easier, we will soon post a list with different things needed in Ukraine, according to lists sent by the National Cancer Institute of Ukraine and other centers.
-
-We encourage tech and pharma companies, as well as individuals, to donate whatever they can (money or drugs) to make this possible.
+We are looking for the following donations: money, medicines and equipment. We encourage tech and pharma companies, as well as individuals, to donate whatever they can (money or supplies) to support vulnerable people in Ukraine.
 
 ---
 # Who
 ---
-We are a group of early-career AI researchers, very aware of the situation in Ukraine. Unfortunately, we know first hand the difficulties to access cancer treatment in the country, and we want to do our bit by organizing this charity conference. You can read more about us in the [Team](./team) page. You are very welcome to [get in touch!](#contact).
+
+We are a group of early-career AI researchers and friends taking personally the situation in Ukraine. We know first hand the challenges which Ukrainians have been facing due to the war and we want to support them as much as we can. You are very welcome to read [more about us](./team) and [get in touch!](#contact)
 
 ## Our partners
 ---
@@ -62,4 +52,4 @@ We are a group of early-career AI researchers, very aware of the situation in Uk
 
 # Contact
 
-If you have questions, feedback or just want to say hi, please send us an email to `{{ site.email }}`. You may follow on [Twitter](https://twitter.com/aihelpsukraine) for announcements.
+If you have questions, feedback or just want to say hi, please send us an email to `{{ site.email }}`. We encourage you to follow us on [Twitter](https://twitter.com/aihelpsukraine) for announcements.
