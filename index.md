@@ -18,7 +18,7 @@ Participation is free and everyone is welcome to donate according to their possi
 ---
 Russian invasion of Ukraine has caused a grave humanitarian crisis destroying civilian infrastructure and forcing millions of people to leave their homes seeking safety and protection. According to [UNHCR](https://www.unhcr.org/ukraine-emergency.html), more than 7.2 million of Ukrainians had to flee from the war abroad and more than 6.9 million were displaced within the country since 24 February 2022. Many of them are still located close to the conflict zones and remain in need of food, hygiene, warm clothes and shelters. Together with infrastructure, medicine supply chains were broken and these days Ukrainian hospitals are lacking not only specialized medicines and machines but even essential basics, such as toilet paper and medical gloves.
 
-Some of our team members learned about this disastrous situation first hand, from their friends and families in Ukraine. As for AI researches and world citizens, it became unthinkable for us to continue doing our work without making every effort to help people in Ukraine. Therefore, we are organising a fundraising charity conference asking the broad international AI community to give a hand to those in dire need. We do believe that our collective efforts can make a real difference and save lives.
+Some of our team members learned about this disastrous situation first hand, from their friends and families in Ukraine. As AI researches and world citizens, it became unthinkable for us to continue doing our work without making every effort to help people in Ukraine. Therefore, we are organising a fundraising charity conference asking the broad international AI community to give a hand to those in dire need. We do believe that our collective efforts can make a real difference and save lives.
 
 ---
 # How
@@ -33,7 +33,7 @@ We and our partners are in close contact with hospitals and charities in Ukraine
 
 ### How do we deliver supplies to Ukraine?
 
-Our main partner is [Ukraine Medical Support](https://uams.ca/about-us/), a Canadian-based non-profit organisation, which helps us with the logistics and shipment process. They have access to a warehouse in Canada and in Ukraine, and they are in contact with organizations inside Ukraine to pick up the material and do the shipments.
+Our main partner is [Ukraine Medical Support](https://uams.ca/about-us/), a Canadian-based non-profit organisation, which helps us with the logistics and shipment process. They have access to a warehouse in Canada and in Ukraine, and they are in contact with organisations inside Ukraine to pick up the material and do the shipments.
 
 ### How can you get involved?
 
