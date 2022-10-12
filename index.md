@@ -1,6 +1,6 @@
 ---
 layout: page-floatbutton
-title: AI helps Ukraine - Charity Conference
+title: AI Helps Ukraine - Charity Conference
 subtitle: A charity conference on AI to raise funds for medical and humanitarian aid for Ukraine
 toc: false
 ---
