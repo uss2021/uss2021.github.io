@@ -124,6 +124,28 @@
   abstract: ""
   sessions:
   -
+
+- fullname: Anna Goldenberg
+  affiliations:
+  - Vector Institute for Artificial Intelligence
+  - Department of Computer Science, University of Toronto
+  - SickKids Research Institute
+  nametitle: Prof.
+  position: Professor at University of Toronto, Chair in Biomedical Informatics and Artificial Intelligence at the Hospital for Sick Children
+  bio: "Anna Goldenberg is famous for her research on how machine learning can be used to map the heterogeneity seen in various human diseases. Her lab develops methodologies to identify patterns in collected data and improve patient outcomes. The “Similarity Network Fusion” she co-developed was the first patient data integration method that improved survival outcome predictions in different cancers.
+
+  Goldenberg is professor at the University of Toronto and holds a CIFAR AI Chair. She was the first to receive a chair in biomedical informatics and AI at the Hospital for Sick Children.
+
+  Among other awards, Anna Goldenberg received the Early Researcher Award from the Ministry of Research and Innovation.
+
+  Since she is strongly committed to creating responsible AI to benefit patients across a variety of conditions, she also put forward publication such as “Do no harm: a roadmap for responsible machine learning for health care” (Nature Medicine, 2019).
+  "
+  photo: anna_goldenberg.jpg
+  alttext: Prof. Anna Goldenberg
+  title: "TBD"
+  abstract: ""
+  sessions:
+  -
 # for what is the person known
 # which positions does he have
 # which prizes did he earn
