@@ -1,5 +1,5 @@
 - fullname: Yoshua Bengio
-  affiliations: 
+  affiliations:
   - Mila, Quebec AI Institute
   - DIRO, Université de Montréal
   nametitle: Prof.
@@ -15,6 +15,33 @@
   alttext: Prof. Yoshua Bengio
   title: "TBD"
   abstract: ""
-  sessions: 
-  - "202211DDHHMM"
-  - "20221208HHMM"
+  sessions:
+  - "2022-Nov-03-12:00-13:00"
+  - "2022-Dec-08"
+
+- fullname: Max Welling
+  affiliations:
+  - AMLAB, University of Amsterdam
+  - European Lab for Learning and Intelligent Systems (ELLIS)
+  nametitle: Prof.
+  position: Director of AMLab, Co-Founder of Scyfer BV, Lead Scientist of the Microsoft Research Lab Amsterdam
+  bio: "Max Welling advanced the field of machine learning in multiple ways: Together with others he introduced variational autoencoders, graph neural networks and equivariant neural networks.
+
+   He directs the Amsterdam Machine Learning Lab (AMLab) and co-directs the Qualcomm-UvA deep learning lab (QUVA) and the Bosch-UvA Deep Learning lab (DELTA). He also co-founded Scyfer BV and the lead scientist of the Microsoft Research Lab in Amsterdam. He is a fellow at CIFAR and ELLIS and a member of the advisory board of Neurips.
+
+   Notably, Max Welling received the ECCV Koenderink Prize in 2010 and the ICML Test of Time award in 2021. He published well over 250 articles.
+
+   His research aims to develop new machine learning methods in the areas of deep learning, Bayesian modeling and causal inference and apply those methods to large scale data domains in science and industry.
+  "
+  photo: max_welling.jpg
+  alttext: Prof. Max Welling
+  title: "TBD"
+  abstract: ""
+  sessions:
+  - "2022-Nov-14-11:00-12:00"
+
+
+# for what is the person known
+# which positions does he have
+# which prizes did he earn
+# his contributions to AI for Good
