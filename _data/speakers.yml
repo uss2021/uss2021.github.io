@@ -40,6 +40,26 @@
   sessions:
   - "2022-Nov-14-11:00-12:00"
 
+- fullname: Regina Barzilay
+  affiliations:
+  - School of Engineering, Computer Science and Artificial Intelligence Lab, Massachusetts Institute of Technology
+  - Jameel Clinic, Massachusetts Institute of Technology
+  nametitle: Prof.
+  position: Professor for AI and Health, Faculty lead for AI at the MIT Jameel Clinic
+  bio: "Regina Barzilay is famous for her break-throughs in deep learning for health. She was part of the team who discovered Halicin with deep learning, a new antibiotic compound that kills over 35 powerful bacteria, including AMR tuberculosis, and two of WHO's top-three most deadly bacteria.
+
+  She is professor of electrical engineering and computer science at MIT and the faculty lead for AI at the MIT Jameel clinic, a research center advancing the field of AI health sciences.
+
+  In 2017, Barzilay won the MacArthur Fellowship, known as the “Genius Grant”. Moreover, she became the first recipient of the $1 million AAAI Squirrel AI Award for Artificial Intelligence for the Benefit of Humanity (2020).
+
+  After fighting breast cancer personally in 2014, Barzilay started applying machine learning to oncology, helping with early diagnosis, treatment and disease prevention.
+  "
+  photo: regina_barzilay.jpg
+  alttext: Prof. Regina Barzilay
+  title: "TBD"
+  abstract: ""
+  sessions:
+  - "2022-Nov-21-11:00-12:00"
 
 # for what is the person known
 # which positions does he have
