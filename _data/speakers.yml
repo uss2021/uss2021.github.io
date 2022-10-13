@@ -46,7 +46,7 @@
   - School of Engineering, Computer Science and Artificial Intelligence Lab, Massachusetts Institute of Technology
   - Jameel Clinic, Massachusetts Institute of Technology
   nametitle: Prof.
-  position: Professor for AI and Health, Faculty lead for AI at the MIT Jameel Clinic
+  position: Professor for AI and Health, Faculty Lead for AI at the MIT Jameel Clinic
   bio: "Regina Barzilay is famous for her break-throughs in deep learning for health. She was part of the team who discovered Halicin with deep learning, a new antibiotic compound that kills over 35 powerful bacteria, including AMR tuberculosis, and two of WHO's top-three most deadly bacteria.
 
   She is professor of electrical engineering and computer science at MIT and the faculty lead for AI at the MIT Jameel clinic, a research center advancing the field of AI health sciences.
@@ -99,6 +99,27 @@
   "
   photo: michael_bronstein.jpg
   alttext: Prof. Michael Bronstein
+  title: "TBD"
+  abstract: ""
+  sessions:
+  -
+
+- fullname: Alexei Efros
+  affiliations:
+  - EECS Department, University of California, Berkeley
+  - Berkeley Artificial Intelligence Research Lab (BAIR)
+  nametitle: Prof.
+  position: Professor at UC Berkeley
+  bio: "Alexei Efros is widely recognized for his ground-breaking research in computer vision and computer graphics. He is also very invested in self-supervised learning.
+
+  Since 2013, Efros has been a professor at the EECS department at UC Berkeley. Before, he spend nine years at the Robotics Institute at CMU.
+
+  His work was awarded with the ACM Prize in Computing in 2016. Among other awards, he received the Guggenheim fellowship (2008) and the Diane McEntyre Award for Excellence in Teaching Computer Science (2019).
+
+  The goal of his research is to use vast amounts of unlabelled visual data to understand and model the visual world around us. He advocates for slow science. Efros openly supports the Ukraine since the beginning of the war.
+  "
+  photo: alexei_efros.jpg
+  alttext: Prof. Alexei Efros
   title: "TBD"
   abstract: ""
   sessions:
