@@ -68,7 +68,7 @@
   - School of Computer Science, McGill University
   nametitle: Prof.
   position: Assistant Professor and Canada CIFAR AI Chair at McGill University
-  bio: "David Rolnick is well known for his research on machine learning and climate change. This field was established by contributions such as his paper "Tackling Climate Change with Machine Learning".
+  bio: "David Rolnick is well known for his research on machine learning and climate change. This field was established by contributions such as his paper “Tackling Climate Change with Machine Learning”.
 
   Rolnick is an assistant professor at the School of Computer Science at the McGill University and holds a Canada CIFAR AI Chair. He is also co-founder and chair of Climate Change AI and a scientific co-director of Sustainability in the Digital Age.
 
@@ -76,12 +76,33 @@
 
   David Rolnick develops new ML methods as tools for climate change adaptation and mitigation. Another part of his work is informing policy decision makers about the potential and limits of fighting climate change with AI.
   "
-  photo: regina_barzilay.jpg
-  alttext: Prof. Regina Barzilay
+  photo: david_rolnick.jpg
+  alttext: Prof. David Rolnick
   title: "TBD"
   abstract: ""
   sessions:
-  - "2022-Nov-21-11:00-12:00"
+  -
+
+- fullname: Michael Bronstein
+  affiliations:
+  - Department of Computer Science, University of Oxford
+  - Graph Learning Research, Twitter
+  nametitle: Prof.
+  position: DeepMind Professor of Artificial Intelligence
+  bio: "Michael Bronstein is known for coining the term “geometric deep learning” and his research on graph neural networks and 3d shape analysis.
+
+  He is the DeepMind Professor of AI at the University of Oxford and Head of Graph Learning Research at Twitter. He was previously a professor at Imperial College London and held visiting appointments at Stanford, MIT, and Harvard.
+
+  Bronstein is the recipient of the Royal Society Wolfson Research Merit Award, Royal Academy of Engineering Silver Medal, five ERC grants, two Google Faculty Research Awards, and two Amazon AWS ML Research Awards.
+
+  In addition to his academic career, Michael is a serial entrepreneur and founder of multiple startup companies, including Novafora, Invision, and Fabula AI.
+  "
+  photo: michael_bronstein.jpg
+  alttext: Prof. Michael Bronstein
+  title: "TBD"
+  abstract: ""
+  sessions:
+  -
 # for what is the person known
 # which positions does he have
 # which prizes did he earn
