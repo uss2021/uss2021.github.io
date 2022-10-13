@@ -1,5 +1,5 @@
 - fullname: Yoshua Bengio
-  affiliations: 
+  affiliations:
   - Mila, Quebec AI Institute
   - DIRO, Université de Montréal
   nametitle: Prof.
@@ -15,6 +15,138 @@
   alttext: Prof. Yoshua Bengio
   title: "TBD"
   abstract: ""
-  sessions: 
-  - "202211DDHHMM"
-  - "20221208HHMM"
+  sessions:
+  - "2022-Nov-03-12:00-13:00"
+  - "2022-Dec-08"
+
+- fullname: Max Welling
+  affiliations:
+  - AMLAB, University of Amsterdam
+  - European Lab for Learning and Intelligent Systems (ELLIS)
+  nametitle: Prof.
+  position: Director of AMLab, Co-Founder of Scyfer BV, Lead Scientist of the Microsoft Research Lab Amsterdam
+  bio: "Max Welling advanced the field of machine learning in multiple ways: Together with others he introduced variational autoencoders, graph neural networks and equivariant neural networks.
+
+   He directs the Amsterdam Machine Learning Lab (AMLab) and co-directs the Qualcomm-UvA deep learning lab (QUVA) and the Bosch-UvA Deep Learning lab (DELTA). He also co-founded Scyfer BV and the lead scientist of the Microsoft Research Lab in Amsterdam. He is a fellow at CIFAR and ELLIS and a member of the advisory board of Neurips.
+
+   Notably, Max Welling received the ECCV Koenderink Prize in 2010 and the ICML Test of Time award in 2021. He published well over 250 articles.
+
+   His research aims to develop new machine learning methods in the areas of deep learning, Bayesian modeling and causal inference and apply those methods to large scale data domains in science and industry.
+  "
+  photo: max_welling.jpg
+  alttext: Prof. Max Welling
+  title: "TBD"
+  abstract: ""
+  sessions:
+  - "2022-Nov-14-11:00-12:00"
+  - "20210607-13:00-13:15"
+
+- fullname: Regina Barzilay
+  affiliations:
+  - School of Engineering, Computer Science and Artificial Intelligence Lab, Massachusetts Institute of Technology
+  - Jameel Clinic, Massachusetts Institute of Technology
+  nametitle: Prof.
+  position: Professor for AI and Health, Faculty Lead for AI at the MIT Jameel Clinic
+  bio: "Regina Barzilay is famous for her break-throughs in deep learning for health. She was part of the team who discovered Halicin with deep learning, a new antibiotic compound that kills over 35 powerful bacteria, including AMR tuberculosis, and two of WHO's top-three most deadly bacteria.
+
+  She is professor of electrical engineering and computer science at MIT and the faculty lead for AI at the MIT Jameel clinic, a research center advancing the field of AI health sciences.
+
+  In 2017, Barzilay won the MacArthur Fellowship, known as the “Genius Grant”. Moreover, she became the first recipient of the $1 million AAAI Squirrel AI Award for Artificial Intelligence for the Benefit of Humanity (2020).
+
+  After fighting breast cancer personally in 2014, Barzilay started applying machine learning to oncology, helping with early diagnosis, treatment and disease prevention.
+  "
+  photo: regina_barzilay.jpg
+  alttext: Prof. Regina Barzilay
+  title: "TBD"
+  abstract: ""
+  sessions:
+  - "2022-Nov-21-11:00-12:00"
+
+- fullname: David Rolnick
+  affiliations:
+  - Mila, Quebec AI Institute
+  - School of Computer Science, McGill University
+  nametitle: Prof.
+  position: Assistant Professor and Canada CIFAR AI Chair at McGill University
+  bio: "David Rolnick is well known for his research on machine learning and climate change. This field was established by contributions such as his paper “Tackling Climate Change with Machine Learning”.
+
+  Rolnick is an assistant professor at the School of Computer Science at the McGill University and holds a Canada CIFAR AI Chair. He is also co-founder and chair of Climate Change AI and a scientific co-director of Sustainability in the Digital Age.
+
+  In 2021, he was named as one of the “35 Innovators Under 35” by the MIT Technology Review. He was the lead organizer of the first workshops on climate change at ICML, NeurIPS and ICLR, as well as th lead organizer of the first AI climate change event at COP25 (United Nations Climate Change Conference).
+
+  David Rolnick develops new ML methods as tools for climate change adaptation and mitigation. Another part of his work is informing policy decision makers about the potential and limits of fighting climate change with AI.
+  "
+  photo: david_rolnick.jpg
+  alttext: Prof. David Rolnick
+  title: "TBD"
+  abstract: ""
+  sessions:
+  -
+
+- fullname: Michael Bronstein
+  affiliations:
+  - Department of Computer Science, University of Oxford
+  - Graph Learning Research, Twitter
+  nametitle: Prof.
+  position: DeepMind Professor of Artificial Intelligence
+  bio: "Michael Bronstein is known for coining the term “geometric deep learning” and his research on graph neural networks and 3d shape analysis.
+
+  He is the DeepMind Professor of AI at the University of Oxford and Head of Graph Learning Research at Twitter. He was previously a professor at Imperial College London and held visiting appointments at Stanford, MIT, and Harvard.
+
+  Bronstein is the recipient of the Royal Society Wolfson Research Merit Award, Royal Academy of Engineering Silver Medal, five ERC grants, two Google Faculty Research Awards, and two Amazon AWS ML Research Awards.
+
+  In addition to his academic career, Michael is a serial entrepreneur and founder of multiple startup companies, including Novafora, Invision, and Fabula AI.
+  "
+  photo: michael_bronstein.jpg
+  alttext: Prof. Michael Bronstein
+  title: "TBD"
+  abstract: ""
+  sessions:
+  -
+
+- fullname: Alexei Efros
+  affiliations:
+  - EECS Department, University of California, Berkeley
+  - Berkeley Artificial Intelligence Research Lab (BAIR)
+  nametitle: Prof.
+  position: Professor at UC Berkeley
+  bio: "Alexei Efros is widely recognized for his ground-breaking research in computer vision and computer graphics. He is also very invested in self-supervised learning.
+
+  Since 2013, Efros has been a professor at the EECS department at UC Berkeley. Before, he spend nine years at the Robotics Institute at CMU.
+
+  His work was awarded with the ACM Prize in Computing in 2016. Among other awards, he received the Guggenheim fellowship (2008) and the Diane McEntyre Award for Excellence in Teaching Computer Science (2019).
+
+  The goal of his research is to use vast amounts of unlabelled visual data to understand and model the visual world around us. He advocates for slow science. Efros openly supports the Ukraine since the beginning of the war.
+  "
+  photo: alexei_efros.jpg
+  alttext: Prof. Alexei Efros
+  title: "TBD"
+  abstract: ""
+  sessions:
+  -
+
+- fullname: Anna Goldenberg
+  affiliations:
+  - Vector Institute for Artificial Intelligence
+  - Department of Computer Science, University of Toronto
+  - SickKids Research Institute
+  nametitle: Prof.
+  position: Professor at University of Toronto, Chair in Biomedical Informatics and Artificial Intelligence at the Hospital for Sick Children
+  bio: "Anna Goldenberg is famous for her research on how machine learning can be used to map the heterogeneity seen in various human diseases. Her lab develops methodologies to identify patterns in collected data and improve patient outcomes. The “Similarity Network Fusion” she co-developed was the first patient data integration method that improved survival outcome predictions in different cancers.
+
+  Goldenberg is professor at the University of Toronto and holds a CIFAR AI Chair. She was the first to receive a chair in biomedical informatics and AI at the Hospital for Sick Children.
+
+  Among other awards, Anna Goldenberg received the Early Researcher Award from the Ministry of Research and Innovation.
+
+  Since she is strongly committed to creating responsible AI to benefit patients across a variety of conditions, she also put forward publication such as “Do no harm: a roadmap for responsible machine learning for health care” (Nature Medicine, 2019).
+  "
+  photo: anna_goldenberg.jpg
+  alttext: Prof. Anna Goldenberg
+  title: "TBD"
+  abstract: ""
+  sessions:
+  -
+# for what is the person known
+# which positions does he have
+# which prizes did he earn
+# his contributions to AI for Good
