@@ -12,7 +12,7 @@ The times are Eastern Daylight Time (Quebec local time, UTC-4). Click on the tim
 
 ## Virtual series
 
-{% include table-schedule.html date="202211DD" people="Speaker(s)" %}
+{% include table-schedule.html date="20221103" people="Speaker(s)" %}
 
 ## In-person conference
 
