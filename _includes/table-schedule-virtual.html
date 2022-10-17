@@ -1,0 +1,28 @@
+<table class="table is-hoverable">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Time (UTC)</th>
+      <th>Speaker</th>
+      <th>Title</th>
+      <th>Platform</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign speakers = site.data.speakers | where: "session", "virtual" %}
+    {% assign speakers = speakers | sort: "date" %}
+    {% for speaker in speakers %}
+      {% assign date = site.data.datesdict | where: "code", speaker.date | first %}
+      {% capture speakername %}
+        <a href="speakers#{{ speaker.photo | replace: ".jpg" "" }}">{{ speaker.fullname }}</a>
+      {% endcapture %}
+        <tr>
+          <td>{{ date.readable }}</td>
+          <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=AI+Helps+Ukraine&iso={{ speaker.date }}T{{ speaker.time | split: ":" | first }}{{ speaker.time | split: ":" | last }}00">{{ speaker.time }}</a></td>
+          <td>{{ speakername }}</td>
+          <td>{{ speaker.title }}</td>
+          <td>TBD</td>
+        </tr>
+    {% endfor %}
+  </tbody>
+</table>
