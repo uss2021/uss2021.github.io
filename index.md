@@ -23,6 +23,15 @@ Russian invasion of Ukraine has caused a grave humanitarian crisis destroying ci
 Some of our team members learned about this disastrous situation first hand, from their friends and families in Ukraine. As AI researches and world citizens, it became unthinkable for us to continue doing our work without making every effort to help people in Ukraine. Therefore, we are organising a fundraising charity conference asking the broad international AI community to give a hand to those in dire need. We do believe that our collective efforts can make a real difference and save lives.
 
 ---
+# Who we support
+
+Interview with the National Cancer Institute of Ukraine & the Ukraine Medical Support in Canada
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YRyQrpMmVOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/R2pvkciWoKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Read more about [who we support here](./who_we_support).
+
+---
 
 # How
 
