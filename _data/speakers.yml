@@ -11,6 +11,8 @@
   session: virtual
   date: 20221026
   time: "16:30"
+  skip: True
+
 - fullname: Yoshua Bengio
   affiliations:
   - Mila, Quebec AI Institute
@@ -31,6 +33,7 @@
   session: virtual
   date: 20221103
   time: "15:00"
+  skip: False
 - fullname: Yoshua Bengio
   affiliations:
   - Mila, Quebec AI Institute
@@ -50,6 +53,7 @@
   abstract: ""
   session: inperson
   time: "09:15"
+  skip: True
 
 - fullname: Max Welling
   affiliations:
@@ -72,6 +76,7 @@
   session: virtual
   date: 20221114
   time: "15:00"
+  skip: False
 
 - fullname: Regina Barzilay
   affiliations:
@@ -94,6 +99,7 @@
   session: virtual
   date: 20221121
   time: "15:00"
+  skip: False
 
 - fullname: David Rolnick
   affiliations:
@@ -116,6 +122,7 @@
   session: tbd
   date: 20221121
   time: "15:00"
+  skip: False
 
 - fullname: Michael Bronstein
   affiliations:
@@ -138,6 +145,7 @@
   session: tbd
   date: 20221121
   time: "15:00"
+  skip: False
 
 - fullname: Alexei Efros
   affiliations:
@@ -160,6 +168,7 @@
   session: tbd
   date: 20221121
   time: "15:00"
+  skip: False
 
 - fullname: Anna Goldenberg
   affiliations:
@@ -183,6 +192,7 @@
   session: tbd
   date: 20221121
   time: "15:00"
+  skip: False
 # for what is the person known
 # which positions does he have
 # which prizes did he earn
