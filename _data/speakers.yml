@@ -31,7 +31,6 @@
   session: virtual
   date: 20221103
   time: "15:00"
-  inperson: HHMM
 - fullname: Yoshua Bengio
   affiliations:
   - Mila, Quebec AI Institute
@@ -50,10 +49,7 @@
   title: "TBD"
   abstract: ""
   session: inperson
-  date: 20221208
-  time: HHMM
-  virtual: 202211031200
-  inperson: HHMM
+  time: "09:15"
 
 - fullname: Max Welling
   affiliations:

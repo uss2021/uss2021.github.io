@@ -14,8 +14,8 @@ The times are given in Universal Coordinated Time (UTC). Click on the times to c
 
 {% include table-schedule-virtual.html %}
 
-## In-person conference
+## December 8th, Thursday (in person at Mila, Montreal)
 
-The times are given in the local Montreal time (Eastern Daylight Time).
+The times are given in the local Montreal time (Eastern Standard Time, UTC-5).
 
-{% include table-schedule.html date="20221208" people="Speaker(s)" %}
+{% include table-schedule-inperson.html %}
