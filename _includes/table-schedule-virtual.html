@@ -4,8 +4,6 @@
       <th>Date</th>
       <th>Time (UTC)</th>
       <th>Speaker</th>
-      <th>Title</th>
-      <th>Platform</th>
     </tr>
   </thead>
   <tbody>
@@ -20,8 +18,6 @@
           <td>{{ date.readable }}</td>
           <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=AI+Helps+Ukraine&iso={{ speaker.date }}T{{ speaker.time | split: ":" | first }}{{ speaker.time | split: ":" | last }}00">{{ speaker.time }}</a></td>
           <td>{{ speakername }}</td>
-          <td>{{ speaker.title }}</td>
-          <td>TBD</td>
         </tr>
     {% endfor %}
   </tbody>
