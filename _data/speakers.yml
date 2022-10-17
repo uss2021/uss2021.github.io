@@ -32,7 +32,7 @@
   abstract: ""
   session: virtual
   date: 20221103
-  time: "15:00"
+  time: "16:00"
   skip: False
 - fullname: Yoshua Bengio
   affiliations:
@@ -120,7 +120,7 @@
   title: "TBD"
   abstract: ""
   session: tbd
-  date: 20221121
+  date: 20221124
   time: "15:00"
   skip: False
 
