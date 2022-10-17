@@ -2,57 +2,52 @@
 <div class="columns container">
   <div class="column"></div>
   <div class="column is-four-fifths">
-    <div class="card" id="{{ person.photo | replace: ".jpg" "" }}">
+    <div class="card" id="{{ speaker.photo | replace: ".jpg" "" }}">
       <div class="card-content">
         <div class="media">
           <div class="media-left">
             <figure class="image is-128x128">
-              {% if person.photo != "none" %}
-              <img src="assets/img/speakers/{{ person.photo }}" alt="{{ person.alttext }}">
+              {% if speaker.photo != "none" %}
+              <img src="assets/img/speakers/{{ speaker.photo }}" alt="{{ speaker.alttext }}">
               {% endif %}
             </figure>
           </div>
           <div class="media-content">
-            <p class="title is-4">{{ person.fullname }}</p>
-            <p class="subtitle is-6">{{ person.pronouns }}</p>
-            <p class="subtitle is-6">{{ person.position }}</p>
-            <p class="subtitle is-7">{{ person.affiliations | join: " · " }}</p>
+            <p class="title is-4">{{ speaker.fullname }}</p>
+            <p class="subtitle is-6">{{ speaker.pronouns }}</p>
+            <p class="subtitle is-6">{{ speaker.position }}</p>
+            <p class="subtitle is-7">{{ speaker.affiliations | join: " · " }}</p>
           </div>
         </div>
         <div class="content">
-          {% if person.bio %}
+          {% if speaker.bio %}
             <details>
               <summary><strong>Bio</strong></summary>
-                {{ person.bio }}
+                {{ speaker.bio }}
             </details>
           <br>
           {% endif %}
-          {% if person.title %}
+          {% if speaker.title %}
           {% endif %}
-          {% if person.abstract %}
+          {% if speaker.abstract %}
             <details>
-              <summary><span class="title is-5">{{ person.title }}</span></summary>
-                {{ person.abstract }}
+              <summary><span class="title is-5">{{ speaker.title }}</span></summary>
+                {{ speaker.abstract }}
             </details>
           {% else %}
-          <p class="title is-5">{{ person.title }}</p>
+          <p class="title is-5">{{ speaker.title }}</p>
           {% endif %}
-          {% for session in person.sessions %}
-            {% if session contains "panel" %}{% continue %}
-            {% else %}
-            {% capture talk %}
-              {% assign date = session | slice: 0, 8 %}
-              {% if date == "202211DD" %}
-                <a href="schedule"><em>Online talk in November, {{ session | slice: 8, 2 }}:{{ session | slice: 10, 2 }} (EDT) - TBA</em></a>
-              {% elsif date == "20221208" %}
-                <a href="schedule"><em>Thursday, December 8th, {{ session | slice: 8, 2 }}:{{ session | slice: 10, 2 }} (EDT) - TBA</em></a>
-              {% endif %}
-            {% endcapture %}
-            <p class="subtitle is-6">{{ talk }}</p>
+          {% capture talk %}
+            {% if speaker.session == "inperson" %}
+              <a href="schedule"><em>Mila: Thursday, December 8th, {{ speaker.time }} (EST)</em></a>
+            {% elsif speaker.session == "virtual" %}
+              {% assign date = site.data.datesdict | where: "code", speaker.date | first %}
+              <a href="schedule"><em>Online series: {{ date.readable }}, {{ speaker.time }} (UTC)</em></a>
             {% endif %}
-          {% endfor %}
+          {% endcapture %}
+          <p class="subtitle is-6">{{ talk }}</p>
           <br>
-          {% for tag in person.tags %}
+          {% for tag in speaker.tags %}
             <a class="tag" href="{{ tag.link }}">{{ tag.name }}</a>
           {% endfor %}
         </div>
