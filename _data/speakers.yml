@@ -117,8 +117,8 @@
   "
   photo: david_rolnick.jpg
   alttext: Prof. David Rolnick
-  title: "TBD"
-  abstract: ""
+  title: Machine Learning in Climate Action
+  abstract: Machine learning (ML) can be a useful tool in helping society reduce greenhouse gas emissions and adapt to a changing climate. In this talk, we will explore opportunities and challenges in ML for climate action, from optimizing electrical grids to monitoring crop yield, with an emphasis on how to incorporate domain-specific knowledge into machine learning algorithms. We will also consider ways that ML is used in ways that contribute to climate change, and how to better align the use of ML overall with climate goals.
   session: virtual
   date: 20221124
   time: "15:00"
