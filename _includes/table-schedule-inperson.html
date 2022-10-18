@@ -1,0 +1,36 @@
+<table class="table is-hoverable">
+  <thead>
+    <tr>
+      <th>Time (EDT)</th>
+      <th>Session</th>
+      <th>Speaker</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign speakers = site.data.speakers | where: "session", "inperson" %}
+    {% assign schedule = site.data.schedule | sort: 'time_start' %}
+    {% for event in schedule %}
+      {% assign speaker = speakers | where: "time", event.time_start | first %}
+      {% capture speakername %}
+        <a href="speakers#{{ speaker.photo | replace: ".jpg" "" }}">{{ speaker.fullname }}</a>
+      {% endcapture %}
+      {% capture eventtitle %}
+        {% if event.name == "Keynote talk" %}
+          {% if speaker.abstract %}
+          <details>
+            <summary>{{ speaker.title }} {{ slides }}</summary>
+            {{ speaker.abstract }}
+          </details>
+          {% endif %}
+        {% endif %}
+      {% endcapture %}
+        <tr>
+          <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=AI+Helps+Ukraine&iso=20221208T{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}00&p1=165">{{ event.time_start }}</a> - {{ event.time_end }}</td>
+          <td>{{ event.name }}</td>
+          <td>{{ speakername }}</td>
+          <td>{{ eventtitle }}</td>
+        </tr>
+    {% endfor %}
+  </tbody>
+</table>

@@ -8,12 +8,14 @@ permalink: /schedule
 ---
 Stay tuned for the upcoming details of the program! We are working on a outstanding and diverse program on AI for Good research!
 
-The times are Eastern Daylight Time (Quebec local time, UTC-4). Click on the times to check your local time.
-
 ## Virtual series
 
-{% include table-schedule.html date="202211DD" people="Speaker(s)" %}
+The times are given in Universal Coordinated Time (UTC). Click on the times to check your local time.
 
-## In-person conference
+{% include table-schedule-virtual.html %}
 
-{% include table-schedule.html date="20221208" people="Speaker(s)" %}
+## December 8th, Thursday (in person at Mila, Montreal)
+
+The times are given in the local Montreal time (Eastern Standard Time, UTC-5).
+
+{% include table-schedule-inperson.html %}
