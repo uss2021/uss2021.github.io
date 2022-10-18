@@ -75,7 +75,7 @@
   abstract: ""
   session: virtual
   date: 20221114
-  time: "15:00"
+  time: "16:00"
   skip: False
 
 - fullname: Regina Barzilay
@@ -98,7 +98,7 @@
   abstract: ""
   session: virtual
   date: 20221121
-  time: "15:00"
+  time: "16:00"
   skip: False
 
 - fullname: David Rolnick
