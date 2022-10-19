@@ -5,6 +5,8 @@ subtitle: A charity conference on AI to raise funds for medical and humanitarian
 toc: false
 ---
 
+{% include registration-button.html %}
+
 # What
 
 <img src="{{ site.logo }}" style="width:300px;vertical-align:middle;padding-right:30px;padding-bottom:30px;float:left">
