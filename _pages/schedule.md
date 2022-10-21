@@ -10,12 +10,12 @@ Stay tuned for the upcoming details of the program! We are working on a outstand
 
 ## Virtual series
 
-The times are given in Universal Coordinated Time (UTC). Click on the times to check your local time.
+The times are given in **Universal Coordinated Time (UTC)**. Click on the times to check your local time.
 
 {% include table-schedule-virtual.html %}
 
 ## December 8th, Thursday (in person at Mila, Montreal)
 
-The times are given in the local Montreal time (Eastern Standard Time, UTC-5).
+The times are given in the local **Montreal time (Eastern Standard Time, UTC-5)**.
 
 {% include table-schedule-inperson.html %}
