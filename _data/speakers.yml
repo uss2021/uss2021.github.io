@@ -11,6 +11,11 @@
   session: virtual
   date: 20221026
   time: "16:30"
+  tags:
+    - name: Website
+      link: https://www.dair-institute.org/about
+    - name: Twitter
+      link: https://twitter.com/timnitGebru
   skip: False
 
 - fullname: Yoshua Bengio
@@ -33,7 +38,11 @@
   session: virtual
   date: 20221103
   time: "16:00"
+  tags:
+    - name: Website
+      link: https://yoshuabengio.org/
   skip: False
+
 - fullname: Yoshua Bengio
   affiliations:
   - Mila, Quebec AI Institute
@@ -53,6 +62,9 @@
   abstract: ""
   session: inperson
   time: "15:30"
+  tags:
+    - name: Website
+      link: https://yoshuabengio.org/
   skip: True
 
 - fullname: Max Welling
@@ -76,6 +88,11 @@
   session: virtual
   date: 20221114
   time: "16:00"
+  tags:
+    - name: Website
+      link: https://staff.fnwi.uva.nl/m.welling/
+    - name: Twitter
+      link: https://twitter.com/wellingmax
   skip: False
 
 - fullname: Regina Barzilay
@@ -99,6 +116,11 @@
   session: virtual
   date: 20221121
   time: "16:00"
+  tags:
+    - name: Website
+      link: https://www.regina.csail.mit.edu/
+    - name: Twitter
+      link: https://twitter.com/BarzilayRegina
   skip: False
 
 - fullname: David Rolnick
@@ -122,6 +144,11 @@
   session: virtual
   date: 20221124
   time: "15:00"
+  tags:
+    - name: Website
+      link: https://davidrolnick.com/
+    - name: Twitter
+      link: https://twitter.com/david_rolnick
   skip: False
 
 - fullname: Michael Bronstein
@@ -145,6 +172,11 @@
   session: tbd
   date: 20221121
   time: "15:00"
+  tags:
+    - name: Website
+      link: https://www.cs.ox.ac.uk/people/michael.bronstein/
+    - name: Twitter
+      link: https://twitter.com/mmbronstein
   skip: False
 
 - fullname: Alexei Efros
@@ -168,6 +200,9 @@
   session: tbd
   date: 20221121
   time: "15:00"
+  tags:
+    - name: Website
+      link: https://people.eecs.berkeley.edu/~efros/
   skip: False
 
 - fullname: Anna Goldenberg
@@ -192,6 +227,9 @@
   session: tbd
   date: 20221121
   time: "15:00"
+  tags:
+    - name: Website
+      link: http://goldenberglab.ca/
   skip: False
 # for what is the person known
 # which positions does he have
