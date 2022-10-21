@@ -45,7 +45,27 @@
   email: julia.kaltenborn@mila.quebec
   fullname: Julia Kaltenborn
   photo: julia_kaltenborn.jpg
-  pronouns: "she/elle"
+  pronouns: "she/sie/ella"
   alttext: Julia has white skin, blue eyes, long fair hair that looks slightly tousled in that pic.
   website: https://liellnima.github.io
+  twitter: https://twitter.com/JuliaKaltenborn
+- affiliation: "Mila, Universit\xE9 de Montr\xE9al"
+  bio: I am a second-year PhD student at Mila working on AI generative models for scientific discovery. My research interests are evolving and currently they include drug discovery, material design, geometric deep learning, bayesian methods, causality.
+  committee: General Committee
+  email: alexandra.volokhova@mila.quebec
+  fullname: Alexandra Volokhova
+  photo: alexandra_volokhova.jpg
+  pronouns: "she/она"
+  alttext: Alexandra has auburn hair in this image, blue eyes and she smiles into the camera.
+  website: https://alexandravolokhova.github.io
+  twitter: https://twitter.com/alex_volokhova
+- affiliation: "Mila, DreamFold"
+  bio: "Maksym Korablyov is a PhD student with Yoshua Bengio at Mila and co-founder of DreamFold. His research interests are in the applications of generative flow networks to protein design for social good."
+  committee: General Committee
+  email: korablym@mila.quebec
+  fullname: Maksym Korablyov
+  photo: maksym_korablyov.jpeg
+  pronouns: "he/він"
+  alttext: Maksym has a plaid shirt, short hair and looks both focused and relaxed into the camera.
+  website: https://www.linkedin.com/in/korablyov
   twitter: none
