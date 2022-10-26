@@ -7,6 +7,8 @@ toc: false
 
 {% include registration-button.html %}
 
+{% include join-button.html %}
+
 # What
 
 <img src="{{ site.logo }}" style="width:300px;vertical-align:middle;padding-right:30px;padding-bottom:30px;float:left">
