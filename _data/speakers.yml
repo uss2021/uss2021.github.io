@@ -16,6 +16,11 @@
       link: https://www.dair-institute.org/about
     - name: Twitter
       link: https://twitter.com/timnitGebru
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine-timnit-gebru
+    - name: YouTube
+      link: https://www.youtube.com/watch?v=QT1htqtkknA
   skip: False
 
 - fullname: Yoshua Bengio
@@ -58,8 +63,6 @@
   Concerned about the social impact of AI and the objective that AI benefits all, he actively contributed to the Montreal Declaration for the Responsible Development of Artificial Intelligence."
   photo: yoshua_bengio.jpg
   alttext: Prof. Yoshua Bengio
-  title: "TBD"
-  abstract: ""
   session: inperson
   time: "15:30"
   tags:
@@ -111,8 +114,6 @@
   "
   photo: regina_barzilay.jpg
   alttext: Prof. Regina Barzilay
-  title: "TBD"
-  abstract: ""
   session: virtual
   date: 20221121
   time: "16:00"
@@ -139,7 +140,7 @@
   "
   photo: david_rolnick.jpg
   alttext: Prof. David Rolnick
-  title: Machine Learning in Climate Action
+  title: Machine learning in climate action
   abstract: Machine learning (ML) can be a useful tool in helping society reduce greenhouse gas emissions and adapt to a changing climate. In this talk, we will explore opportunities and challenges in ML for climate action, from optimizing electrical grids to monitoring crop yield, with an emphasis on how to incorporate domain-specific knowledge into machine learning algorithms. We will also consider ways that ML is used in ways that contribute to climate change, and how to better align the use of ML overall with climate goals.
   session: virtual
   date: 20221124
@@ -167,8 +168,6 @@
   "
   photo: michael_bronstein.jpg
   alttext: Prof. Michael Bronstein
-  title: "TBD"
-  abstract: ""
   session: tbd
   date: 20221121
   time: "15:00"
@@ -195,8 +194,6 @@
   "
   photo: alexei_efros.jpg
   alttext: Prof. Alexei Efros
-  title: "TBD"
-  abstract: ""
   session: tbd
   date: 20221121
   time: "15:00"
@@ -222,8 +219,6 @@
   "
   photo: anna_goldenberg.jpg
   alttext: Prof. Anna Goldenberg
-  title: "TBD"
-  abstract: ""
   session: tbd
   date: 20221121
   time: "15:00"

@@ -28,14 +28,14 @@
           <br>
           {% endif %}
           {% if speaker.title %}
-          {% endif %}
-          {% if speaker.abstract %}
-            <details>
-              <summary><span class="title is-5">{{ speaker.title }}</span></summary>
-                {{ speaker.abstract }}
-            </details>
-          {% else %}
-          <p class="title is-5">{{ speaker.title }}</p>
+            {% if speaker.abstract %}
+              <details>
+                <summary><span class="title is-5">{{ speaker.title }}</span></summary>
+                  {{ speaker.abstract }}
+              </details>
+            {% else %}
+            <p class="title is-5">{{ speaker.title }}</p>
+            {% endif %}
           {% endif %}
           {% capture talk %}
             {% if speaker.session == "inperson" %}
