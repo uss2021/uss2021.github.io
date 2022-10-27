@@ -13,8 +13,6 @@ On our PayPal donation page you can donate from any country, with **debit card**
 
 {% include donation-button.html %}
 
-<!-- Crypto Option-->
-If you would like to donate via **crypto** currency, please contact us, we will make it possible if there are a couple of demands.
 
 # Donations
 
