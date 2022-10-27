@@ -26,6 +26,8 @@ baseurl: ""
 url: ""
 logo: assets/img/logo/logo_150dpi.png
 favicon: assets/img/logo/icon_square_transparent.png
+# TODO we need to update this manuall right now, improve that
+curr_donations: 8293
 
 # Reading Files
 include:
