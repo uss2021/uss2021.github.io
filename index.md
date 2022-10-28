@@ -41,6 +41,11 @@ Interview with the National Cancer Institute of Ukraine & the Ukraine Medical Su
 Read more about [who we support here](./who_we_support).
 
 ---
+# Donations
+So far we have collected {{ site.curr_donations }} CAD from 1 Million CAD!
+{% include donation-bar.html %}
+
+---
 
 # How
 
