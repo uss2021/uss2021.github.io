@@ -22,7 +22,7 @@ We would like to raise 1M $CAD. Currently, we are working on a list of specific 
 
 ### Collected donations
 
-**Currently we have collected {{ site.curr_donations }} CAD of 1 Million CAD!**
+**Currently we have collected {{ site.data.donations.current }} CAD of {{ site.data.donations.target }} CAD!**
 {% include donation-bar.html %}
 
 ### Thank you!

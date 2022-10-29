@@ -42,7 +42,7 @@ Read more about [who we support here](./who_we_support).
 
 ---
 # Donations
-So far we have collected {{ site.curr_donations }} CAD from 1 Million CAD!
+So far we have collected {{ site.data.donations.current }} CAD from {{ site.data.donations.target }} CAD!
 {% include donation-bar.html %}
 
 ---
