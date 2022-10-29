@@ -89,6 +89,8 @@
   "
   photo: max_welling.jpg
   alttext: Prof. Max Welling
+  title: "Generating and steering molecules with ML and RL"
+  abstract: "After speech, text, image and video, a whole new application area is opening up for deep learning technology: accelerating molecular simulation. In this talk I will highlight two such methods in Transition Path Sampling and Ligand-Protein docking."
   session: virtual
   date: 20221114
   time: "16:00"
