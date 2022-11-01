@@ -49,6 +49,8 @@
   streams:
     - name: Crowdcast
       link: https://www.crowdcast.io/c/ai-helps-ukraine/stAnz
+    - name: YouTube
+      link: https://www.youtube.com/watch?v=uOzCKnTDvqY
   skip: False
 
 - fullname: Yoshua Bengio
