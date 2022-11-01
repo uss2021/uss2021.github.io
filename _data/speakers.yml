@@ -18,7 +18,7 @@
       link: https://twitter.com/timnitGebru
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine
+      link: https://www.crowdcast.io/c/ai-helps-ukraine/hDuFo
     - name: YouTube
       link: https://www.youtube.com/watch?v=QT1htqtkknA
   skip: False
@@ -48,7 +48,9 @@
       link: https://yoshuabengio.org/
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine
+      link: https://www.crowdcast.io/c/ai-helps-ukraine/stAnz
+    - name: YouTube
+      link: https://www.youtube.com/watch?v=uOzCKnTDvqY
   skip: False
 
 - fullname: Yoshua Bengio
@@ -99,6 +101,9 @@
       link: https://staff.fnwi.uva.nl/m.welling/
     - name: Twitter
       link: https://twitter.com/wellingmax
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Regina Barzilay
@@ -125,6 +130,9 @@
       link: https://www.regina.csail.mit.edu/
     - name: Twitter
       link: https://twitter.com/BarzilayRegina
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: David Rolnick
@@ -153,6 +161,9 @@
       link: https://davidrolnick.com/
     - name: Twitter
       link: https://twitter.com/david_rolnick
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Michael Bronstein
@@ -179,6 +190,9 @@
       link: https://www.cs.ox.ac.uk/people/michael.bronstein/
     - name: Twitter
       link: https://twitter.com/mmbronstein
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Alexei Efros
@@ -203,6 +217,9 @@
   tags:
     - name: Website
       link: https://people.eecs.berkeley.edu/~efros/
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Anna Goldenberg
@@ -259,6 +276,9 @@
       link: https://beerys.github.io/
     - name: Twitter
       link: https://twitter.com/sarameghanbeery
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 # for what is the person known
 # which positions does he have
