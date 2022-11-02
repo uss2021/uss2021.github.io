@@ -75,6 +75,63 @@
       link: https://yoshuabengio.org/
   skip: True
 
+- fullname: Hannah Kerner
+  affiliations:
+  - School of Computing and Augmented Intelligence, University of Maryland
+  - NASA, Harvest
+  nametitle: Prof.
+  position: Assistant Professor at the School of Computing and Augmented Intelligence at University of Maryland
+  bio: "Hannah Kerner is Assistant Professor in the School of Computing and Augmented Intelligence at the University of Maryland. Her research focuses on developing and advancing machine learning systems needed to address the world’s most pressing challenges, including food security, climate change and space exploration.
+
+  As the machine learning lead and U.S. domestic co-lead for the NASA Harvest program, she is deploying research methods in real operations for stakeholders in industry, government and humanitarian organizations.
+
+  In 2021, she was recognized on the Forbes 30 Under 30 list in science.
+
+  Hannah Kerner also communicates challenges for developing ML applications for real-world problems and is passionate about advancing opportunities for people who have traditionally been underrepresented in computer science."
+  photo: hannah_kerner.jpg
+  alttext: Prof. Hannah Kerner
+  session: virtual
+  date: 20221111
+  time: "16:00"
+  tags:
+    - name: Website
+      link: https://hannah-rae.github.io/
+    - name: Twitter
+      link: https://twitter.com/hannah_kerner
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
+  skip: False
+
+- fullname: Inbal Becker-Reshef
+  affiliations:
+  - NASA Harvest
+  - Department of Geographical Sciences, University of Maryland
+  nametitle: Prof.
+  position: Director of NASA Harvest, Professor at University of Maryland
+  bio: "Dr. Becker-Reshef is the Director of NASA Harvest (NASA’s Applied Science Program on Food Security and Agriculture), and Research Professor at the University of Maryland. Her work is focused on the application of Earth Observations for agricultural monitoring from the field to global scales, supporting decisions in food security, sustainability, and agricultural markets.
+
+  She worked closely with national and international partners to initiate the GEOGLAM (GEO Global Agricultural Monitoring) Program, adopted by the G20 in 2011 under the action plan on food price volatility and agriculture. Within this program she is a Program Scientists at the GEOGLAM Secretariat, leading the Crop Monitor initiative. She is a member of the G20 AMIS Steering Committee, UN 50X2030 Technical Advisory Group, US National Committee for IIASA, GEOGLAM-Committee on Earth Observation Satellites (CEOS) Technical Team, NASA Water Resources Applied Science Team, and led the NASA SERVIR Food Security and Agriculture Theme of the Applied Sciences Team (2016-2019).
+
+  Her background is in soil sciences and remote sensing and she received her Ph.D in 2012 in Geographical Sciences from the University of Maryland.
+
+  She was recognized by the US State Department, for her work on Food Security and Technologies winning US Asia-Pacific Economic Cooperation (APEC) Science Prize for Innovation, Research, and Education (ASPIRE) awarded by John Holdren, Former Assistant to the President for Science and Technology."
+
+  photo: inbal_becker-reshef.jpg
+  alttext: Prof. Inbal Becker-Reshef
+  session: virtual
+  date: 20221111
+  time: "16:00"
+  tags:
+    - name: Website
+      link: https://nasaharvest.org/partner/inbal-becker-reshef
+    - name: Twitter
+      link: https://twitter.com/beckerinbal
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
+  skip: False
+
 - fullname: Max Welling
   affiliations:
   - AMLAB, University of Amsterdam
@@ -222,6 +279,33 @@
       link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
+- fullname: Sara Beery
+  affiliations:
+  - MIT EECS's Faculty of AI and Decision Making
+  - Auto Arborist, Google
+  nametitle: Dr.
+  position: Incoming Professor at MIT EECS's Faculty of AI and Decision Making and CSAIL
+  bio: "Sara Beery will join MIT as an assistant professor in the Faculty of Artificial Intelligence and Decision-Making in EECS in September 2023 and is currently a visiting researcher at Google working on urban tree mapping across North America.
+
+  She received her PhD in computing and mathematical sciences at Caltech in 2022, where she was advised by Pietro Perona.
+
+  Her research focuses on building computer vision methods that enable global-scale environmental and biodiversity monitoring across data modalities, tackling real-world challenges including strong spatiotemporal correlations, imperfect data quality, fine-grained categories, and long-tailed distributions.
+
+  She partners with nongovernmental organizations and government agencies to deploy her methods in the wild worldwide and works toward increasing the diversity and accessibility of academic research in artificial intelligence through interdisciplinary capacity building and education."
+  photo: sara_beery.jpg
+  alttext: Dr. Sara Beery
+  title: "Mapping Urban Trees Across North America with the Auto Arborist Dataset"
+  abstract: "Generalization to novel domains is a fundamental challenge for computer vision. Near-perfect accuracy on benchmarks is common, but these models do not work as expected when deployed outside of the training distribution. To build computer vision systems that solve real-world problems at global scale, we need benchmarks that fully capture real-world complexity, including geographic domain shift, long-tailed distributions, and data noise. We propose urban forest monitoring as an ideal testbed for studying and improving upon these computer vision challenges, while working towards filling a crucial environmental and societal need. Urban forests provide significant benefits to urban societies. However, planning and maintaining these forests is expensive. One particularly costly aspect of urban forest management is monitoring the existing trees in a city: e.g., tracking tree locations, species, and health. We introduce a new large-scale dataset that joins public tree censuses from 23 cities with a large collection of street level and aerial imagery, containing over 2.5M trees and 300 genera. This benchmark enables the exploration of automated urban forest monitoring across modalities and with respect to geographic distribution shifts, vital for such a system to be deployed at-scale."
+  session: virtual
+  date: 20221205
+  time: "16:00"
+  tags:
+    - name: Website
+      link: https://beerys.github.io/
+    - name: Twitter
+      link: https://twitter.com/sarameghanbeery
+  skip: False
+
 - fullname: Anna Goldenberg
   affiliations:
   - Vector Institute for Artificial Intelligence
@@ -249,37 +333,14 @@
   tags:
     - name: Website
       link: http://goldenberglab.ca/
-  skip: False
-
-- fullname: Sara Beery
-  affiliations:
-  - MIT EECS's Faculty of AI and Decision Making
-  - Auto Arborist, Google
-  nametitle: Dr.
-  position: Incoming Professor at MIT EECS's Faculty of AI and Decision Making and CSAIL
-  bio: "Sara Beery will join MIT as an assistant professor in the Faculty of Artificial Intelligence and Decision-Making in EECS in September 2023 and is currently a visiting researcher at Google working on urban tree mapping across North America.
-
-  She received her PhD in computing and mathematical sciences at Caltech in 2022, where she was advised by Pietro Perona.
-
-  Her research focuses on building computer vision methods that enable global-scale environmental and biodiversity monitoring across data modalities, tackling real-world challenges including strong spatiotemporal correlations, imperfect data quality, fine-grained categories, and long-tailed distributions.
-
-  She partners with nongovernmental organizations and government agencies to deploy her methods in the wild worldwide and works toward increasing the diversity and accessibility of academic research in artificial intelligence through interdisciplinary capacity building and education."
-  photo: sara_beery.jpg
-  alttext: Dr. Sara Beery
-  title: "Mapping Urban Trees Across North America with the Auto Arborist Dataset"
-  abstract: "Generalization to novel domains is a fundamental challenge for computer vision. Near-perfect accuracy on benchmarks is common, but these models do not work as expected when deployed outside of the training distribution. To build computer vision systems that solve real-world problems at global scale, we need benchmarks that fully capture real-world complexity, including geographic domain shift, long-tailed distributions, and data noise. We propose urban forest monitoring as an ideal testbed for studying and improving upon these computer vision challenges, while working towards filling a crucial environmental and societal need. Urban forests provide significant benefits to urban societies. However, planning and maintaining these forests is expensive. One particularly costly aspect of urban forest management is monitoring the existing trees in a city: e.g., tracking tree locations, species, and health. We introduce a new large-scale dataset that joins public tree censuses from 23 cities with a large collection of street level and aerial imagery, containing over 2.5M trees and 300 genera. This benchmark enables the exploration of automated urban forest monitoring across modalities and with respect to geographic distribution shifts, vital for such a system to be deployed at-scale."
-  session: virtual
-  date: 20221205
-  time: "16:00"
-  tags:
-    - name: Website
-      link: https://beerys.github.io/
-    - name: Twitter
-      link: https://twitter.com/sarameghanbeery
   streams:
     - name: Crowdcast
       link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
+
+
+
+
 # for what is the person known
 # which positions does he have
 # which prizes did he earn
