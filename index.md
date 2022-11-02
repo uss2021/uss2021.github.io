@@ -41,6 +41,11 @@ Interview with the National Cancer Institute of Ukraine & the Ukraine Medical Su
 Read more about [who we support here](./who_we_support).
 
 ---
+# Donations
+So far we have collected {{ site.data.donations.current }} CAD from {{ site.data.donations.target }} CAD!
+{% include donation-bar.html %}
+
+---
 
 # How
 
