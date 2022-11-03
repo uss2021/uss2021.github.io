@@ -7,7 +7,7 @@ toc: false
 
 {% include registration-button.html %}
 
-<!--{% include join-button.html %}-->
+{% include join-button.html %}
 
 # What
 
