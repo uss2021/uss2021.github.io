@@ -26,7 +26,8 @@ layout: page
     function showInfo(results) {
         document.getElementById("donation-progress-bar").setAttribute("value", [results.data[0].total])
         document.getElementById("donation-progress-bar").setAttribute("max", "{{ site.data.settings.donations.target | json }}")
-        document.getElementById("donation-progress-bar").innerHTML = [results.data[0].total]+" CAD out of {{ site.data.settings.donations.target | json }} CAD"
+        document.getElementById("donation-progress-bar").innerHTML = [results.data[0].totalText]+" CAD out of {{ site.data.settings.donations.target | json }} CAD"
+        document.getElementById("donation-text").innerHTML = "So far, we have collected "+[results.data[0].totalText]+" CAD out of {{ site.data.settings.donations.targetTextForm | json }} CAD"
         console.log(results.data);
     }
 </script>
