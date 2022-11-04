@@ -7,7 +7,7 @@ toc: false
 
 {% include registration-button.html %}
 
-<!-- {% include join-button.html %} -->
+{% if site.data.settings.talk.isLive %}{% include join-button.html %}{% endif %}
 
 # What
 
