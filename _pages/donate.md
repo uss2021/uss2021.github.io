@@ -22,8 +22,7 @@ We would like to raise 1M $CAD. Currently, we are working on a list of specific 
 
 ### Collected donations
 
-**Currently we have collected {{ site.data.donations.current }} CAD of {{ site.data.donations.target }} CAD!**
-{% include donation-bar.html %}
+{% include donation-bar-section.html %}
 
 ### Thank you!
 A big thank you goes to everyone who supports us! Large donations from companies, small donations from students, equipment / drug donations from pharma - we are glad about every piece of help! Thank you for being here with us and standing up for Ukraine!
