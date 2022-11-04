@@ -45,6 +45,12 @@ Read more about [who we support here](./who_we_support).
 
 ---
 
+# Donations
+
+{% include donation-bar-section.html %}
+
+---
+
 # How
 
 ### How do we use donations?
